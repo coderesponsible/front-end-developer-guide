@@ -809,7 +809,14 @@
             ],
             "url":"http://jasmine.github.io/",
             "articles":[
-                
+                {
+                    "title":"Testing Your JavaScript with Jasmine",
+                    "url":"http://code.tutsplus.com/tutorials/testing-your-javascript-with-jasmine--net-21229"
+                },
+                {
+                    "title":"Testing node.js applications with Jasmine",
+                    "url":"http://blog.codeship.io/2013/08/20/testing-tuesday-19-how-to-test-node-js-applications-with-jasmine.html"
+                }
             ]
         },
         {
@@ -819,7 +826,10 @@
             ],
             "url":"https://github.com/cucumber/cucumber/wiki",
             "articles":[
-                
+                {
+                    "title":"Getting Started with cucumber.js",
+                    "url":"http://transitioning.to/2012/01/cucumber-and-js-getting-started-with-cucumber-js/"
+                }
             ]
         },
         {
