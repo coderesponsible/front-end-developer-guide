@@ -3,6 +3,8 @@ Front End Developer Guide
 
 A detailed list of resources to learn more about Front End Development.
 
+[View the guide](http://coderesponsible.com/front-end-developer-guide/)
+
 ## Contributing
 
 1. Fork it
