@@ -1,0 +1,207 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-size: 14px;
+  font-size: 0.875rem;
+  font-family: 'Gotham_SSm_4r', Helvetica, Arial, sans-serif;
+  line-height: 1.3; }
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+
+ul li {
+  margin: 0;
+  padding: 0; }
+
+ol {
+  margin: 0;
+  padding: 0; }
+
+p {
+  padding: 0;
+  margin: 0px 0px 5px 0px;
+  margin: 0rem 0rem 0.3125rem 0rem; }
+
+h1, h2, h3, h4, h5, h6 {
+  padding: 0;
+  margin: 0px 0px 10px 0px;
+  margin: 0rem 0rem 0.625rem 0rem;
+  font-weight: normal; }
+
+fieldset {
+  border: none;
+  margin: 0;
+  padding: 0; }
+
+button {
+  cursor: pointer; }
+
+
+*, *:after, *:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+.row {
+  max-width: 980px;
+  max-width: 61.25rem;
+  margin: 0 auto; }
+  .row {
+    *zoom: 1; }
+  .row:before, .row:after {
+    content: "";
+    display: table; }
+  .row:after {
+    clear: both; }
+  @media only screen and (max-width: 1020px) {
+    .row {
+      padding: 0px 20px;
+      padding: 0rem 1.25rem;
+      width: 100%; } }
+
+.col_1, .col_2, .col_3, .col_4, .col_5, .col_6, .col_7, .col_8, .col_9, .col_10, .col_11, .col_12 {
+  float: left;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+.col {
+  margin-left: 1.6%; }
+
+.col:first-child {
+  margin-left: 0; }
+
+.col_1 {
+  width: 6.86667%; }
+
+.col_2 {
+  width: 15.33333%; }
+
+.col_3 {
+  width: 23.8%; }
+
+.col_4 {
+  width: 32.26667%; }
+
+.col_5 {
+  width: 40.73333%; }
+
+.col_6 {
+  width: 49.2%; }
+
+.col_7 {
+  width: 57.66667%; }
+
+.col_8 {
+  width: 66.13333%; }
+
+.col_9 {
+  width: 74.6%; }
+
+.col_10 {
+  width: 83.06667%; }
+
+.col_11 {
+  width: 91.53333%; }
+
+.col_12 {
+  width: 100%;
+  margin-left: 0; }
+
+header {
+  padding: 50px 0px;
+  padding: 3.125rem 0rem;
+  border-bottom: 1px solid #4dbdcb; }
+  header h1 {
+    color: #4dbdcb; }
+
+.items li {
+  width: 100%;
+  background: #efefef;
+  padding: 100px 0px;
+  padding: 6.25rem 0rem; }
+  .items li:nth-child(odd) {
+    background: white; }
+  @media only screen and (max-width: 600px) {
+    .items li {
+      padding: 50px 0px;
+      padding: 3.125rem 0rem; } }
+  .items li h2 {
+    font-family: 'webfont', Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    font-size: 1.875rem;
+    color: #5580a0; }
+  .items li h3 {
+    margin-top: 15px;
+    margin-top: 0.9375rem; }
+
+.articles li {
+  padding: 0;
+  background: none;
+  margin-bottom: 15px;
+  margin-bottom: 0.9375rem; }
+  .articles li:nth-child(odd) {
+    background: none; }
+  .articles li a {
+    color: #226e76;
+    text-decoration: none; }
+    .articles li a:hover, .articles li a:focus {
+      color: #4dbdcb; }
+
+.item-list li {
+  padding: 0;
+  width: 30%;
+  display: -moz-inline-stack;
+  display: inline-block;
+  vertical-align: top;
+  zoom: 1;
+  *display: inline;
+  vertical-align: top;
+  padding: 30px;
+  padding: 1.875rem;
+  min-height: 100px;
+  min-height: 6.25rem;
+  background: none; }
+  .item-list li:nth-child(odd) {
+    background: none; }
+  @media only screen and (max-width: 870px) {
+    .item-list li {
+      width: 50%; } }
+  @media only screen and (max-width: 600px) {
+    .item-list li {
+      width: 100%;
+      padding: 20px 0px;
+      padding: 1.25rem 0rem; } }
+  .item-list li h4 {
+    font-family: 'Gotham_SSm_4r', Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-size: 1.125rem; }
+    .item-list li h4 a {
+      text-decoration: none;
+      color: #4dbdcb; }
+      .item-list li h4 a:hover, .item-list li h4 a:focus {
+        color: #226e76; }
+.item-list h5 {
+  font-size: 16px;
+  font-size: 1rem;
+  margin: 15px 0px 5px 0px;
+  margin: 0.9375rem 0rem 0.3125rem 0rem; }
+
+.item-articles li {
+  display: block;
+  width: 100%;
+  min-height: 0;
+  padding: 0;
+  background: none;
+  margin-bottom: 15px;
+  margin-bottom: 0.9375rem; }
+  .item-articles li:nth-child(odd) {
+    background: none; }
+  .item-articles li a {
+    color: #226e76;
+    text-decoration: none; }
+    .item-articles li a:hover, .item-articles li a:focus {
+      color: #4dbdcb; }

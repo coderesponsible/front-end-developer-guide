@@ -1,0 +1,836 @@
+[{
+    "cat":"General Web Theory",
+    "info": {
+        "title":"General Web Theory",
+        "description":[
+            ""
+        ],
+        "url":"",
+        "articles":[
+            {
+                "title":"Responsive Web Design",
+                "url":"http://alistapart.com/article/responsive-web-design"
+            },
+            {
+                "title":"Web Field Manual",
+                "url":"http://alistapart.com/article/responsive-web-design"
+            }
+        ]
+    },
+    "items":[
+    ]
+},
+{
+    "cat":"HTML",
+    "info": {
+        "title":"HTML",
+        "description":[
+            "HTML or HyperText Markup Language is the standard markup language used to create web pages."
+        ],
+        "url":"",
+        "articles":[
+            {
+                "title":"Dive into HTML5",
+                "url":"http://diveintohtml5.info/"
+            }
+        ]
+    },
+    "items":[
+    ]
+},
+{
+    "cat":"JavaScript",
+    "info": {
+        "title":"JavaScript",
+        "description":[
+            "JavaScript (JS) is a dynamic computer programming language. It is most commonly used as part of web browsers, whose implementations allow client-side scripts to interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed. It is also being used in server-side network programming (with Node.js), game development and the creation of desktop and mobile applications."
+        ],
+        "url":"",
+        "articles":[
+            {
+                "title":"JavaScript the right way",
+                "url":"http://jstherightway.org/"
+            },
+            {
+                "title":"Getting Over jQuery",
+                "url":"http://blog.ponyfoo.com/2013/07/09/getting-over-jquery"
+            },
+            {
+                "title":"You Might Not Need jQuery",
+                "url":"http://youmightnotneedjquery.com/"
+            },
+            {
+                "title":"A Dive Into Plain JavaScript",
+                "url":"http://blog.adtile.me/2014/01/16/a-dive-into-plain-javascript/"
+            },
+            {
+                "title":"Understanding JavaScript OOP",
+                "url":"http://robotlolita.github.io/2011/10/09/understanding-javascript-oop.html"
+            },
+            {
+                "title":"A Deeper Look at Objects in JavaScript",
+                "url":"http://www.kirupa.com/html5/a_deeper_look_at_objects_in_javascript.htm"
+            },
+            {
+                "title":"Deploying JavaScript Applications",
+                "url":"https://alexsexton.com/blog/2013/03/deploying-javascript-applications/"
+            },
+            {
+                "title":"Revisiting JavaScript Objects",
+                "url":"http://www.laktek.com/2012/12/29/revisiting-javascript-objects/"
+            },
+            {
+                "title":"Learning JavaScript Design Patterns",
+                "url":"http://addyosmani.com/resources/essentialjsdesignpatterns/book/#factorypatternjavascript"
+            },
+            {
+                "title":"Journey Through The JavaScript MVC Jungle",
+                "url":"http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/"
+            },
+            {
+                "title":"Best Practices When Working With JavaScript Templates",
+                "url":"http://code.tutsplus.com/tutorials/best-practices-when-working-with-javascript-templates--net-28364"
+            },
+            {
+                "title":"Object properties in JavaScript",
+                "url":"http://www.2ality.com/2012/10/javascript-properties.html"
+            },
+            {
+                "title":"JavaScript Garden",
+                "url":"http://bonsaiden.github.io/JavaScript-Garden/"
+            },
+            {
+                "title":"JavaScript Allonge",
+                "url":"https://leanpub.com/javascript-allonge"
+            },
+            {
+                "title":"Codecademy Self-Paced JavaScript Course",
+                "url":"http://www.codecademy.com/tracks/javascript"
+            },
+            {
+                "title":"Speaking JavaScript",
+                "url":"http://speakingjs.com/es5/index.html"
+            },
+            {
+                "title":"Debugging Asynchronous JavaScript with Chrome DevTools",
+                "url":"http://www.html5rocks.com/en/tutorials/developertools/async-call-stack/"
+            },
+            {
+                "title":"Choosing a JS Framework",
+                "url":"http://todomvc.com/"
+            }
+
+        ]
+    },
+    "items":[
+    ]
+},
+{
+    "cat":"Frameworks",
+    "info": {
+        "title":"JavaScript",
+        "description":[
+            "A JavaScript framework is a library of pre-written JavaScript which allows for easier development of JavaScript-based applications, especially for AJAX and other web-centric technologies."
+        ],
+        "url":"",
+        "articles":[
+        ]
+    },
+    "items":[
+        {
+            "title":"JQuery",
+            "description":[
+                "jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript."
+            ],
+            "url":"http://jquery.com/",
+            "articles":[
+                {
+                    "title":"JQuery Fundimentals",
+                    "url":"http://jqfundamentals.com/"
+                },
+                {
+                    "title":"The Ultimate Guide to Writing jQuery Plugins",
+                    "url":"http://www.websanova.com/blog/jquery/the-ultimate-guide-to-writing-jquery-plugins"
+                }
+            ]
+        },
+        {
+            "title":"AngularJS",
+            "description":[
+                "HTML is great for declaring static documents, but it falters when we try to use it for declaring dynamic views in web-applications. AngularJS lets you extend HTML vocabulary for your application. The resulting environment is extraordinarily expressive, readable, and quick to develop."
+            ],
+            "url":"https://angularjs.org/",
+            "articles":[
+                {
+                    "title":"How to Learn AngularJS - Your AngularJS Sherpa",
+                    "url":"http://www.ng-newsletter.com/posts/how-to-learn-angular.html"
+                },
+                {
+                    "title":"Building a Web App From Scratch in AngularJS",
+                    "url":"http://code.tutsplus.com/tutorials/building-a-web-app-from-scratch-in-angularjs--net-32944"
+                },
+                {
+                    "title":"AngularJS Tutorial: Learn to Build Modern Web Apps",
+                    "url":"http://www.thinkster.io/angularjs/GUIDJbpIie/angularjs-tutorial-learn-to-build-modern-web-apps"
+                },
+                {
+                    "title":"AngularJS-Learning",
+                    "url":"https://github.com/jmcunningham/AngularJS-Learning"
+                }
+            ]
+        },
+        {
+            "title":"EmberJS",
+            "description":[
+                "Ember.js incorporates common idioms so you can focus on what makes your app special, not reinventing the wheel. Ember.js is built for productivity."
+            ],
+            "url":"http://emberjs.com/",
+            "articles":[
+                {
+                    "title":"An In-Depth Introduction To Ember.js",
+                    "url":"http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/"
+                },
+                {
+                    "title":"Flame on! A beginner's guide to Ember.js",
+                    "url":"http://www.adobe.com/devnet/html5/articles/flame-on-a-beginners-guide-to-emberjs.html"
+                }
+            ]
+        },
+        {
+            "title":"BackboneJS",
+            "description":[
+                "Backbone.js gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface."
+            ],
+            "url":"http://backbonejs.org/",
+            "articles":[
+                {
+                    "title":"Getting Started with Backbone.js",
+                    "url":"http://code.tutsplus.com/tutorials/getting-started-with-backbone-js--net-19751"
+                },
+                {
+                    "title":"Backbone.js Tips And Patterns",
+                    "url":"http://coding.smashingmagazine.com/2013/08/09/backbone-js-tips-patterns/"
+                }
+            ]
+        },
+        {
+            "title":"KnockoutJS",
+            "description":[
+                "Simplify dynamic JavaScript UIs with the Model-View-View Model (MVVM) pattern."
+            ],
+            "url":"http://knockoutjs.com/",
+            "articles":[
+                {
+                    "title":"Introducing Knockout, a UI library for JavaScript",
+                    "url":"http://blog.stevensanderson.com/2010/07/05/introducing-knockout-a-ui-library-for-javascript/"
+                }
+            ]
+        },
+        {
+            "title":"Meteor",
+            "description":[
+                "Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started."
+            ],
+            "url":"https://www.meteor.com/",
+            "articles":[
+                
+            ]
+        },
+        {
+            "title":"Dojo",
+            "description":[
+                "Dojo saves you time and scales with your development process, using web standards as its platform. It’s the toolkit experienced developers turn to for building high quality desktop and mobile web applications."
+            ],
+            "url":"http://dojotoolkit.org/",
+            "articles":[
+                
+            ]
+        },
+        {
+            "title":"React",
+            "description":[
+                "A JavaScript library for building user interfaces."
+            ],
+            "url":"http://facebook.github.io/react/",
+            "articles":[
+                
+            ]
+        },
+        {
+            "title":"Kendo UI",
+            "description":[
+                "Everything you need to build sites and apps with pure JavaScript and HTML5"
+            ],
+            "url":"http://www.telerik.com/kendo-ui",
+            "articles":[
+                
+            ]
+        },
+        {
+            "title":"PhantomJS",
+            "description":[
+                "PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG."
+            ],
+            "url":"http://phantomjs.org/",
+            "articles":[
+                
+            ]
+        },
+        {
+            "title":"Underscore.js",
+            "description":[
+                "Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects. It’s the answer to the question: “If I sit down in front of a blank HTML page, and want to start being productive immediately, what do I need?” … and the tie to go along with jQuery's tux and Backbone's suspenders."
+            ],
+            "url":"http://underscorejs.org/",
+            "articles":[
+                
+            ]
+        }
+    ]    
+},
+{
+    "cat":"Template Engines",
+    "info": {
+        "title":"HandlebarsJS",
+        "description":[
+            "Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.",
+            "Mustache templates are compatible with Handlebars, so you can take a Mustache template, import it into Handlebars, and start taking advantage of the extra Handlebars features."
+        ],
+        "url":"http://handlebarsjs.com/",
+        "articles":[
+            
+        ]
+    },
+    "items":[
+        {
+            "title":"Hogan.js",
+            "description":[
+                "Hogan.js is a 3.4k JS templating engine developed at Twitter. Use it as a part of your asset packager to compile templates ahead of time or include it in your browser to handle dynamic templates."
+            ],
+            "url":"http://twitter.github.io/hogan.js/",
+            "articles":[
+            ]
+        },
+        {
+            "title":"Mustache",
+            "description":[
+                "Logic-less templates. Available in Ruby, JavaScript, Python, Erlang, node.js, PHP, Perl, Objective-C, Java"
+            ],
+            "url":"http://mustache.github.io/",
+            "articles":[
+                {
+                    "title":"Introduction to JavaScript templating using mustache.js",
+                    "url":"http://www.lynda.com/articles/introduction-to-javascript-templating-using-mustache-js"
+                }
+            ]
+        },
+        {
+            "title":"ICanHaz.js",
+            "description":[
+                "Simple & powerful client-side templating."
+            ],
+            "url":"http://icanhazjs.com/",
+            "articles":[
+                
+            ]
+        },
+        {
+            "title":"Walrus",
+            "description":[
+                "Walrus is a templating library inspired by mustache, handlebars, ejs and friends, but with a couple of important differences in philosophy and style."
+            ],
+            "url":"http://documentup.com/jeremyruppel/walrus/",
+            "articles":[
+                
+            ]
+        }
+    ]    
+},
+{
+    "cat":"CSS",
+    "info": {
+        "title":"",
+        "description":[
+            "Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written in a markup language. While most often used to style web pages and interfaces written in HTML and XHTML, the language can be applied to any kind of XML document, including plain XML, SVG and XUL. CSS is a cornerstone specification of the web and almost all web pages use CSS style sheets to describe their presentation."
+        ],
+        "url":"",
+        "articles":[
+            {
+                "title":"Media Query & Asset Downloading Results",
+                "url":"http://timkadlec.com/2012/04/media-query-asset-downloading-results/"
+            },
+            {
+                "title":"Preventing the Performance Hit from Custom Fonts",
+                "url":"http://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/"
+            },
+            {
+                "title":"Why Responsive Images Is So Hard",
+                "url":"https://www.readability.com/articles/paaucghp"
+            },
+            {
+                "title":"In Defense Of Rem Units",
+                "url":"http://techtime.getharvest.com/blog/in-defense-of-rem-units"
+            },
+            {
+                "title":"Bandwidth Media Queries? We Don’t Need ’Em!",
+                "url":"http://mobile.smashingmagazine.com/2013/01/09/bandwidth-media-queries-we-dont-need-em/"
+            },
+            {
+                "title":"CSS-Only Responsive Layout with Smooth Transitions",
+                "url":"http://tympanus.net/codrops/2012/06/12/css-only-responsive-layout-with-smooth-transitions/"
+            },
+            {
+                "title":"Styling your apps with Twitter Bootstrap",
+                "url":"http://www.adobe.com/devnet/html5/articles/twitter-bootstrap.html"
+            },
+            {
+                "title":"Animating SVG CSS",
+                "url":"http://css-tricks.com/animating-svg-css/"
+            }
+        ]
+    },
+    "items":[
+    ]
+},
+{
+    "cat":"CSS Pre-Processors",
+    "info": {
+        "title":"",
+        "description":[
+            "CSS pre-processor extends the CSS language, adding features that allow variables, mixins, functions and many other techniques that allow you to make CSS that is more maintainable, themable and extendable."
+        ],
+        "url":"",
+        "articles":[
+        ]
+    },
+    "items":[
+        {
+            "title":"SASS",
+            "description":[
+                "Sass is the most mature, stable, and powerful professional grade CSS extension language in the world."
+            ],
+            "url":"http://sass-lang.com/",
+            "articles":[
+                {
+                    "title":"Sass Style Guide",
+                    "url":"http://css-tricks.com/sass-style-guide/"
+                },
+                {
+                    "title":"MetaFizzy Effect with Sass",
+                    "url":"http://css-tricks.com/metafizzy-effect-with-sass/"
+                },
+                {
+                    "title":"Conditional Media Query Mixins",
+                    "url":"http://css-tricks.com/conditional-media-query-mixins/"
+                },
+                {
+                    "title":"Making Sass talk to JavaScript with JSON",
+                    "url":"http://css-tricks.com/making-sass-talk-to-javascript-with-json/"
+                }
+            ]
+        },
+        {
+            "title":"LESS",
+            "description":[
+                "Less is a CSS pre-processor, meaning that it extends the CSS language, adding features that allow variables, mixins, functions and many other techniques that allow you to make CSS that is more maintainable, themable and extendable.",
+                "Less runs inside Node, in the browser and inside Rhino. There are also many 3rd party tools that allow you to compile your files and watch for changes."
+            ],
+            "url":"http://lesscss.org/",
+            "articles":[
+                
+            ]
+        },
+        {
+            "title":"Stylus",
+            "description":[
+                "Expressive, dynamic, robust CSS. Installing Stylus is very easy once you have Node.js. So get the binaries for your platform and make sure that they also include npm, Node’s package manager."
+            ],
+            "url":"http://learnboost.github.io/stylus/",
+            "articles":[
+                {
+                    "title":"Compiling CSS using Stylus – Getting Started",
+                    "url":"http://clock.co.uk/blog/compiling-css-using-stylus-getting-started"
+                }
+            ]
+        }
+    ]
+},
+{
+    "cat":"Accessibility",
+    "info": {
+        "title":"Accessibility",
+        "description":[
+            "Web accessibility means that people with disabilities can use the Web. More specifically, Web accessibility means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web. Web accessibility also benefits others, including older people with changing abilities due to aging."
+        ],
+        "url":"",
+        "articles":[
+            {
+                "title":"Using WAI-ARIA Landmarks",
+                "url":"http://blog.paciellogroup.com/2013/02/using-wai-aria-landmarks-2013/"
+            },
+            {
+                "title":"Coding Towards Accessibility",
+                "url":"http://24ways.org/2013/coding-towards-accessibility/"
+            },
+            {
+                "title":"Easy Checks for Website Accessibility",
+                "url":"http://www.sitepoint.com/easy-checks-website-accessibility/"
+            },
+            {
+                "title":"HTML5 Accessibility Chops: notes on using ARIA",
+                "url":"http://blog.paciellogroup.com/2012/06/html5-accessibility-chops-using-aria-notes/"
+            },
+            {
+                "title":"Fixing “Skip to content” links",
+                "url":"http://www.nczonline.net/blog/2013/01/15/fixing-skip-to-content-links/"
+            },
+            {
+                "title":"Using the HTML title attribute",
+                "url":"http://blog.paciellogroup.com/2010/11/using-the-html-title-attribute/"
+            },
+            {
+                "title":"Accessibility and Building a web for everyone because sometimes it's not all about us",
+                "url":"http://negativitysandwiches.com/accessibility-and-building-a-web-for-everyone-because-sometimes-its-not-all-about-us/"
+            },
+            {
+                "title":"Ethical Dilemmas in Web Accessibility",
+                "url":"http://www.sitepoint.com/ethical-dilemmas-web-accessibility/"
+            }
+        ]
+    },
+    "items":[
+    ]
+},
+{
+    "cat":"Typography",
+    "info": {
+        "title":"",
+        "description":[
+            ""
+        ],
+        "url":"",
+        "articles":[
+            
+        ]
+    },
+    "items":[
+    ]
+},
+{
+    "cat":"Git",
+    "info": {
+        "title":"Git",
+        "description":[
+            "Git is a distributed revision control and source code management (SCM) system with an emphasis on speed, data integrity, and support for distributed, non-linear workflows."
+        ],
+        "url":"",
+        "articles":[
+            {
+                "title":"Git tips from the trenches",
+                "url":"https://ochronus.com/git-tips-from-the-trenches/"
+            },
+            {
+                "title":"Git for Grown-ups",
+                "url":"http://24ways.org/2013/git-for-grownups/"
+            },
+            {
+                "title":"Get Started With GitHub Pages",
+                "url":"http://24ways.org/2013/get-started-with-github-pages/"
+            },
+            {
+                "title":"The Git Parable",
+                "url":"http://tom.preston-werner.com/2009/05/19/the-git-parable.html"
+            },
+            {
+                "title":"A Successful Git Branching Model",
+                "url":"http://nvie.com/posts/a-successful-git-branching-model/"
+            },
+            {
+                "title":"A simple Git deployment strategy for static sites",
+                "url":"http://nicolasgallagher.com/simple-git-deployment-strategy-for-static-sites/"
+            },
+            {
+                "title":"How to Deal with Merge Conflicts in Git",
+                "url":"http://css-tricks.com/deal-merge-conflicts-git/"
+            }
+        ]
+    },
+    "items":[
+    ]
+},
+{
+    "cat":"Task Runner",
+    "info": {
+        "title":"Task Runner",
+        "description":[
+            ""
+        ],
+        "url":"",
+        "articles":[
+            
+        ]
+    },
+    "items":[
+        {
+            "title":"Grunt",
+            "description":[
+                "In one word: automation. The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc, the easier your job becomes. After you've configured it, a task runner can do most of that mundane work for you—and your team—with basically zero effort."
+            ],
+            "url":"http://gruntjs.com/",
+            "articles":[
+                {
+                    "title":"Grunt for People Who Think Things Like Grunt are Weird and Hard",
+                    "url":"http://24ways.org/2013/grunt-is-not-weird-and-hard/"
+                },
+                {
+                    "title":"Setting up Sass with Grunt",
+                    "url":"http://culttt.com/2013/11/18/setting-sass-grunt/"
+                },
+                {
+                    "title":"Grunt.js Workflow",
+                    "url":"http://merrickchristensen.com/articles/gruntjs-workflow.html"
+                },
+                {
+                    "title":"Grunt And Gulp Tasks For Performance Optimization",
+                    "url":"http://yeoman.io/blog/performance-optimization.html"
+                },
+                {
+                    "title":"Getting started with Grunticon",
+                    "url":"http://blog.iconfinder.com/get-started-with-grunticon/"
+                }
+            ]
+        },
+        {
+            "title":"Gulp",
+            "description":[
+                "Build system automating tasks: minification and copying of all JavaScript files, static images, capable of watching files to automatically rerun the task when a file is updated."
+            ],
+            "url":"http://gulpjs.com/",
+            "articles":[
+                {
+                    "title":"An Introduction to Gulp.js",
+                    "url":"http://www.sitepoint.com/introduction-gulp-js/"
+                },
+                {
+                    "title":"Managing Your Build Tasks With Gulp.js",
+                    "url":"http://code.tutsplus.com/tutorials/managing-your-build-tasks-with-gulpjs--net-36910"
+                },
+                {
+                    "title":"Quick intro to Gulp.js",
+                    "url":"http://www.codefellows.org/blogs/quick-intro-to-gulp-js"
+                }
+            ]
+        },
+        {
+            "title":"CodeKit",
+            "description":[
+                "CodeKit compiles Less, Sass, Stylus, Jade, Haml, Slim, CoffeeScript, Javascript, TypeScript, Markdown and Compass files automatically each time you save."
+            ],
+            "url":"https://incident57.com/codekit/",
+            "articles":[
+                {
+                    "title":"On CodeKit 2.0",
+                    "url":"http://css-tricks.com/codekit-2-0/"
+                }
+            ] 
+        }
+    ]
+},
+{
+    "cat":"Animation",
+    "info": {
+        "title":"",
+        "description":[
+            ""
+        ],
+        "url":"",
+        "articles":[
+            
+        ]
+    },
+    "items": [
+        {
+            "title":"Tween.js",
+            "description":[
+                "Super simple, fast and easy to use tweening engine which incorporates optimised Robert Penner's equations."
+            ],
+            "url":"https://github.com/sole/tween.js",
+            "url":"",
+            "articles":[
+                
+            ]
+        },
+        {
+            "title":"Velocity.js",
+            "description":[
+                "Velocity is a jQuery plugin that re-implements $.animate() to produce significantly greater performance (making Velocity also faster than CSS animation libraries) while including new features to improve animation workflow."
+            ],
+            "url":"http://julian.com/research/velocity/",
+            "articles":[
+                
+            ]
+        },
+        {
+            "title":"Animator.js",
+            "description":[
+                "Animator.js has now been incorporated into most of the major JavaScript frameworks, either by directly porting the code (Animator.js is released under a BSD license that allows people to do this) or by borrowing the techniques. Animator.js has served its purpose, and most people will be better served by a general purpose JavaScript framework."
+            ],
+            "url":"http://berniesumption.com/software/animator/",
+            "articles":[
+                
+            ]
+        },
+        {
+            "title":"Shifty",
+            "description":[
+                "Shifty is a JavaScript tweening engine designed to fit any number of tweening needs."
+            ],
+            "url":"http://jeremyckahn.github.io/shifty/",
+            "articles":[
+                
+            ]
+        }
+    ]
+},
+{
+    "cat":"Performance",
+    "info": {
+        "title":"",
+        "description":[
+            "Web performance optimization is important for increasing the overall website load time speed."
+        ],
+        "url":"",
+        "articles":[
+            
+        ]
+    },
+    "items":[
+    ]
+},
+{
+    "cat":"Modularity & Loaders",
+    "info":{
+        "title":"",
+        "description":[
+            ""
+        ],
+        "url":"",
+        "articles":[
+            
+        ]
+    },
+    "items":[
+        {
+            "title":"Browserify",
+            "description":[
+                "Browserify lets you require('modules') in the browser by bundling up all of your dependencies."
+            ],
+            "url":"http://browserify.org/",
+            "articles":[
+                
+            ]
+        },
+        {
+            "title":"RequireJS",
+            "description":[
+                "RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node. Using a modular script loader like RequireJS will improve the speed and quality of your code."
+            ],
+            "url":"http://requirejs.org/",
+            "articles":[
+                
+            ]
+        }
+    ]
+},
+{
+    "cat":"Package Management",
+    "info": {
+        "title":"",
+        "description":[
+            ""
+        ],
+        "url":"",
+        "articles":[
+            
+        ]
+    },
+    "items":[
+        {
+            "title":"Node Packaged Modules (npm)",
+            "description":[
+                "Package manager. Installs, publishes and manages node programs."
+            ],
+            "url":"https://www.npmjs.org/",
+            "articles":[
+            ]
+        },
+        {
+            "title":"Bower",
+            "description":[
+                "Bower is a package manager for the web. It offers a generic, unopinionated solution to the problem of front-end package management, while exposing the package dependency model via an API that can be consumed by a more opinionated build stack. There are no system wide dependencies, no dependencies are shared between different apps, and the dependency tree is flat.",
+                "Bower runs over Git, and is package-agnostic. A packaged component can be made up of any type of asset, and use any type of transport (e.g., AMD, CommonJS, etc.)."
+            ],
+            "url":"http://bower.io/",
+            "articles":[
+                
+            ]
+        },
+        {
+            "title":"Volo",
+            "description":[
+                "Create browser-based, front-end projects from project templates, and add dependencies by fetching them from GitHub. Once your project is set up, automate common tasks.",
+                "Volo is dependency manager and project creation tool that favors GitHub for the package repository.",
+                "At its heart, volo is a generic command runner -- you can create new commands for volo, and you can use commands others have created."
+            ],
+            "url":"https://github.com/volojs/volo",
+            "articles":[
+                
+            ]
+        }
+    ]
+},
+{
+    "cat":"Testing",
+    "info": {
+        "title":"",
+        "description":[
+            ""
+        ],
+        "url":"",
+        "articles":[
+            
+        ]
+    },
+    "items":[
+        {
+            "title":"Jasmine",
+            "description":[
+                "Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests."
+            ],
+            "url":"http://jasmine.github.io/",
+            "articles":[
+                
+            ]
+        },
+        {
+            "title":"Cucumber",
+            "description":[
+                "Cucumber is a tool that executes plain-text functional descriptions as automated tests. The language that Cucumber understands is called Gherkin."
+            ],
+            "url":"https://github.com/cucumber/cucumber/wiki",
+            "articles":[
+                
+            ]
+        },
+        {
+            "title":"QUnit",
+            "description":[
+                "QUnit is a powerful, easy-to-use JavaScript unit testing framework. It's used by the jQuery, jQuery UI and jQuery Mobile projects and is capable of testing any generic JavaScript code, including itself!"
+            ],
+            "url":"http://qunitjs.com/",
+            "articles":[
+                
+            ]
+        }
+    ]
+}]
