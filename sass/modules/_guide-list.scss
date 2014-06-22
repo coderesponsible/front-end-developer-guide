@@ -1,0 +1,109 @@
+.items{
+    li{
+        width:100%;
+        background:$lightGrey;
+        @include rem("padding", 100, 0);
+
+        &:nth-child(odd){
+            background:white;
+        }
+
+        @include breakpoint(600){
+            @include rem("padding", 50, 0);
+        }
+
+        h2{
+            font-family:$webfont;
+            @include rem("font-size", 30);
+            color:$navyBlue;
+        }
+
+        h3{
+            @include rem("margin-top", 15);
+        }
+    }
+}
+.articles{
+    li{
+        padding:0;
+        background:none;
+        @include rem("margin-bottom", 15);
+        &:nth-child(odd){
+            background:none;
+        }
+
+        a{
+            color:darken($blue, 25%);;
+            text-decoration:none;
+
+            &:hover, &:focus{
+                color:$blue;
+            }
+        }
+    }
+}
+.item-list{
+    li{
+        padding:0;
+        width:30%;
+        @include inline-block();
+        vertical-align:top;
+        @include rem("padding", 30);
+        @include rem("min-height", 100);
+        background:none;
+        &:nth-child(odd){
+            background:none;
+        }
+
+        @include breakpoint(870){
+            width:50%;
+        }
+
+        @include breakpoint(600){
+            width:100%;
+            @include rem("padding", 20, 0);
+        }
+
+        h4{
+            font-family:$gotham;
+            @include rem("font-size", 18);
+
+            a{
+                text-decoration:none;
+                color:$blue;
+
+                &:hover, &:focus{
+                    color:darken($blue, 25%);
+                }
+            }
+        }
+    }
+
+    h5{
+        @include rem("font-size", 16);
+        @include rem("margin", 15, 0, 5, 0);
+    }
+}
+.item-articles{
+
+    li{
+        display:block;
+        width:100%;
+        min-height:0;
+        padding:0;
+        background:none;
+        @include rem("margin-bottom", 15);
+        &:nth-child(odd){
+            background:none;
+        }
+
+        a{
+            color:darken($blue, 25%);;
+            text-decoration:none;
+
+            &:hover, &:focus{
+                color:$blue;
+            }
+        }
+    }
+}
