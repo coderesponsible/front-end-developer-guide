@@ -7,6 +7,8 @@ A detailed list of resources to learn more about Front End Development.
 
 ## Contributing
 
+Help contribute to the extensive list of great resources by sharing your favorite links for Front End Development.
+
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
