@@ -848,4 +848,22 @@
             ]
         }
     ]
+},
+{
+    "cat":"Responsive",
+    "info": {
+        "title":"",
+        "description":[
+            ""
+        ],
+        "url":"",
+        "articles":[
+            {
+                "title":"A non-responsive approach to building cross-device webapps",
+                "url":"http://www.html5rocks.com/en/mobile/cross-device/"
+            }
+        ]
+    },
+    "items":[
+    ]
 }]
