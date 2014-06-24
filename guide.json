@@ -859,6 +859,10 @@
         "url":"",
         "articles":[
             {
+                "title":"Techniques for Context Specific Images",
+                "url":"http://css-tricks.com/techniques-for-context-specific-images/"
+            },
+            {
                 "title":"A non-responsive approach to building cross-device webapps",
                 "url":"http://www.html5rocks.com/en/mobile/cross-device/"
             }
