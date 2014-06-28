@@ -720,7 +720,10 @@
         ],
         "url":"",
         "articles":[
-            
+            {
+                "title":"JavaScript Memory Leak Profiling",
+                "url":"https://developer.chrome.com/devtools/docs/javascript-memory-profiling"
+            }
         ]
     },
     "items":[
