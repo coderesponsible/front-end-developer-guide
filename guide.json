@@ -118,6 +118,14 @@
             {
                 "title":"Choosing a JS Framework",
                 "url":"http://todomvc.com/"
+            },
+            {
+                "title":"Script-injected 'async scripts' considered harmful",
+                "url":"https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/"
+            },
+            {
+                "title":"JavaScript Memory Leak Profiling",
+                "url":"https://developer.chrome.com/devtools/docs/javascript-memory-profiling"
             }
 
         ]
@@ -559,6 +567,10 @@
             {
                 "title":"How to Deal with Merge Conflicts in Git",
                 "url":"http://css-tricks.com/deal-merge-conflicts-git/"
+            },
+            {
+                "title":"A Hacker’s Guide to Git",
+                "url":"http://wildlyinaccurate.com/a-hackers-guide-to-git"
             }
         ]
     },
