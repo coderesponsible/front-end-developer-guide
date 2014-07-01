@@ -8,18 +8,28 @@
             background:white;
         }
 
+        .block{
+            width:50%;
+            float:left;
+
+            @include breakpoint(768){
+                width:100%;
+            }
+        }
+
         @include breakpoint(600){
             @include rem("padding", 50, 0);
         }
 
         h2{
-            font-family:$webfont;
+            font-family:$helvetica;
             @include rem("font-size", 30);
             color:$navyBlue;
         }
 
         h3{
             @include rem("margin-top", 15);
+            @include rem("font-size", 24);
         }
     }
 }
@@ -33,11 +43,11 @@
         }
 
         a{
-            color:darken($blue, 25%);;
+            color:$green;
             text-decoration:none;
 
             &:hover, &:focus{
-                color:$blue;
+                color:darken($green, 10%);
             }
         }
     }
@@ -65,8 +75,8 @@
         }
 
         h4{
-            font-family:$gotham;
-            @include rem("font-size", 18);
+            font-family:$helvetica;
+            @include rem("font-size", 24);
 
             a{
                 text-decoration:none;
@@ -80,7 +90,7 @@
     }
 
     h5{
-        @include rem("font-size", 16);
+        @include rem("font-size", 18);
         @include rem("margin", 15, 0, 5, 0);
     }
 }
@@ -98,11 +108,11 @@
         }
 
         a{
-            color:darken($blue, 25%);;
+            color:$green;
             text-decoration:none;
 
             &:hover, &:focus{
-                color:$blue;
+                color:darken($green, 10%);
             }
         }
     }

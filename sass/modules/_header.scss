@@ -4,5 +4,9 @@ header{
 
     h1{
         color:$blue;
+
+        @include breakpoint(460){
+            width:80%;
+        }
     }
 }

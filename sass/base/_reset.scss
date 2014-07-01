@@ -3,7 +3,7 @@ body{
     padding:0;
     width:100%;
     @include rem("font-size", $regularSize);
-    font-family:$gotham;
+    font-family:$helvetica;
     line-height:1.3;
 }
 ul{

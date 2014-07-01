@@ -1,0 +1,72 @@
+.window {
+    display: none;
+    position: absolute;
+    min-width: 50px;
+    min-height: 50px;
+    z-index: 9999;
+
+    iframe{
+        border:none;
+        @include rem("width", 960);
+        @include rem("height", 540);
+
+        @include breakpoint(960){
+            @include rem("width", 640);
+            @include rem("height", 360);
+        }
+
+        @include breakpoint(640){
+            @include rem("width", 480);
+            @include rem("height", 270);
+        }
+
+        @include breakpoint(480){
+            @include rem("width", 420);
+            @include rem("height", 236);
+        }
+
+        @include breakpoint(420){
+            @include rem("width", 360);
+            @include rem("height", 203);
+        }
+
+        @include breakpoint(360){
+            @include rem("width", 320);
+            @include rem("height", 180);
+        }
+
+        @include breakpoint(320){
+            @include rem("width", 270);
+            @include rem("height", 152);
+        }
+    }
+}
+.window a.close {
+    position: absolute;
+    @include rem("top", -30);
+    @include rem("right", -20);
+    font-family: $helvetica;
+    @include rem("font-size", 18);
+    @include rem("padding", 7, 10);
+    @include roundedCorners(30);
+    color: white;
+    @include opacity(0.3);
+    text-decoration: none;
+    //background: $evernoteGreen;
+    //background-color: rgba(255, 255, 255, 0.3);
+}
+.window a.close:hover, .window a.close:focus {
+   // background: darken($evernoteGreen, 15%);
+   color: white;
+   @include opacity(1);
+}
+
+#mask {
+    background-color: black;
+    display: none;
+    top: 0;
+    left: 0;
+    @include opacity(0.9);
+    position: absolute;
+    z-index: 9000;
+}

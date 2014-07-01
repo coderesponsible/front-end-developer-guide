@@ -134,6 +134,10 @@
 
         ],
         "videos":[
+            {
+                "title":"Paul Irish – Javascript Development Workflow for 2013",
+                "url":"https://www.youtube.com/watch?v=f7AU2Ozu8eo"
+            }
         ]
     },
     "items":[
@@ -529,6 +533,70 @@
             "videos":[
             ]
         }
+    ]
+},
+{
+    "cat":"Node.js",
+    "info": {
+        "title":"Node.js",
+        "description":[
+            "Node.js is a software platform for scalable server-side and networking applications. Node.js applications are written in JavaScript. All of the popular server operating systems are supported, including Windows and Linux."
+        ],
+        "url":"",
+        "articles":[
+            {
+                "title":"Node School",
+                "url":"http://nodeschool.io/"
+            },
+            {
+                "title":"An Introduction to Node.js for Front-End Developers",
+                "url":"http://speckyboy.com/2013/11/13/node-js-for-front-end-developers/"
+            },
+            {
+                "title":"How To Build A CLI Tool With Node.js And PhantomJS",
+                "url":"http://www.smashingmagazine.com/2014/02/12/build-cli-tool-nodejs-phantomjs/"
+            },
+            {
+                "title":"Creating a basic site with Node.js and Express",
+                "url":"http://shapeshed.com/creating-a-basic-site-with-node-and-express/"
+            },
+            {
+                "title":"Getting Started with Express",
+                "url":"http://howtonode.org/getting-started-with-express"
+            },
+            {
+                "title":"Error Handling in Node.js",
+                "url":"http://www.joyent.com/developers/node/design/errors"
+            }
+        ],
+        "videos":[
+            {
+                "title":"npm, inc.",
+                "url":"https://www.youtube.com/watch?v=lvZeY-xua70"
+            },
+            {
+                "title":"State of Node",
+                "url":"https://www.youtube.com/watch?v=KXxUNk2XFr8"
+            },
+            {
+                "title":"The business case for Node",
+                "url":"https://www.youtube.com/watch?v=bqLXjNbMZpY"
+            },
+            {
+                "title":"Moving a large developer workforce to NodeJS",
+                "url":"https://www.youtube.com/watch?v=wk4sWG-jx08"
+            },
+            {
+                "title":"Node App Lifecycle",
+                "url":"https://www.youtube.com/watch?v=ceQxrF6kso4"
+            },
+            {
+                "title":"Performance Sins of our Abstractions",
+                "url":"https://www.youtube.com/watch?v=l2aI4ZWBJng"
+            }
+        ]
+    },
+    "items":[
     ]
 },
 {
@@ -1011,6 +1079,10 @@
             }
         ],
         "videos":[
+            {
+                "title":"How DevTools can improve your Mobile Workflow",
+                "url":"https://www.youtube.com/watch?v=O3W1yuq-ZlE"
+            }
         ]
     },
     "items":[
