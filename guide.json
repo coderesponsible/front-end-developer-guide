@@ -335,8 +335,7 @@
     "info": {
         "title":"HandlebarsJS",
         "description":[
-            "Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.",
-            "Mustache templates are compatible with Handlebars, so you can take a Mustache template, import it into Handlebars, and start taking advantage of the extra Handlebars features."
+            "Handlebars provides the power necessary to let you build semantic templates effectively with no frustration. Mustache templates are compatible with Handlebars, so you can take a Mustache template, import it into Handlebars, and start taking advantage of the extra Handlebars features."
         ],
         "url":"http://handlebarsjs.com/",
         "articles":[
@@ -392,6 +391,21 @@
             "url":"http://documentup.com/jeremyruppel/walrus/",
             "articles":[
                 
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"jade",
+            "description":[
+                "Jade is templating engine built primarily for server-side templating in node.js."
+            ],
+            "url":"http://jade-lang.com/",
+            "articles":[
+                {
+                    "title":"Feeling Jaded with Jade? Don't Be!",
+                    "url":"http://www.codeproject.com/Articles/717798/Feeling-Jaded-with-Jade"
+                }
             ],
             "videos":[
             ]
@@ -794,6 +808,10 @@
             {
                 "title":"JavaScript Memory Leak Profiling",
                 "url":"https://developer.chrome.com/devtools/docs/javascript-memory-profiling"
+            },
+            {
+                "title":"Front-end Performance for Web Designers and Front-end Developers",
+                "url":"http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/"
             }
         ],
         "videos":[
@@ -894,6 +912,17 @@
                 "At its heart, volo is a generic command runner -- you can create new commands for volo, and you can use commands others have created."
             ],
             "url":"https://github.com/volojs/volo",
+            "articles":[
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"Homebrew",
+            "description":[
+                "The missing package manager for OS X. Homebrew installs the stuff you need that Apple didn't."
+            ],
+            "url":"http://brew.sh/",
             "articles":[
             ],
             "videos":[
