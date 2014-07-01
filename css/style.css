@@ -117,6 +117,9 @@ header {
   border-bottom: 1px solid #4dbdcb; }
   header h1 {
     color: #4dbdcb; }
+    @media only screen and (max-width: 460px) {
+      header h1 {
+        width: 80%; } }
 
 .items li {
   width: 100%;
@@ -125,6 +128,12 @@ header {
   padding: 6.25rem 0rem; }
   .items li:nth-child(odd) {
     background: white; }
+  .items li .block {
+    width: 50%;
+    float: left; }
+    @media only screen and (max-width: 768px) {
+      .items li .block {
+        width: 100%; } }
   @media only screen and (max-width: 600px) {
     .items li {
       padding: 50px 0px;

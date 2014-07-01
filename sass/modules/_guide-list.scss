@@ -8,6 +8,15 @@
             background:white;
         }
 
+        .block{
+            width:50%;
+            float:left;
+
+            @include breakpoint(768){
+                width:100%;
+            }
+        }
+
         @include breakpoint(600){
             @include rem("padding", 50, 0);
         }

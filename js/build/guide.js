@@ -12,7 +12,6 @@
         success: function(result){
             //console.log(result);
             for (var i = 0; i < result.length; i++){
-                console.log(result)
                 var categories = result[i].cat;
                 var description = result[i].info.description;
                 var articleList = result[i].info.articles;
@@ -28,6 +27,7 @@
                 }
 
                 if(articleList != 'undefined' && articleList.length != 0){
+                    html += '<div class="block">';
                     html += '<h3>Articles</h3>';
                     html += '<ul class="articles">';
 
@@ -38,9 +38,11 @@
                     }
 
                     html += '</ul>';
+                    html += '</div>';
                 }
 
                 if(videoList != 'undefined' && videoList.length != 0){
+                    html += '<div class="block">';
                     html += '<h3>Videos</h3>';
                     html += '<ul class="articles">';
 
@@ -56,6 +58,7 @@
                     }
 
                     html += '</ul>';
+                    html += '</div>';
                 }
 
                 if(itemList != 'undefined' && itemList.length != 0){
