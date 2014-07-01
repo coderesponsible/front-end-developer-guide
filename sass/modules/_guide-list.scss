@@ -13,7 +13,7 @@
         }
 
         h2{
-            font-family:$webfont;
+            font-family:$helvetica;
             @include rem("font-size", 30);
             color:$navyBlue;
         }
@@ -65,7 +65,7 @@
         }
 
         h4{
-            font-family:$gotham;
+            font-family:$helvetica;
             @include rem("font-size", 18);
 
             a{
