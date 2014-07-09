@@ -1,6 +1,5 @@
 (function($) {
     'use strict';
-    
         //load modal mask
         $('<div id="mask"></div>').appendTo('body');
 
@@ -60,6 +59,7 @@
             //Cancel the link behavior
             e.preventDefault();
             $('#mask, .window').hide();
+            $('.window iframe').remove();
         });
 
         // Change modal window size repsonsive
