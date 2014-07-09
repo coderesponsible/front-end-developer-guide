@@ -97,7 +97,7 @@ module.exports = function(grunt) {
               }
             },
             templates: {
-                files: ['templates/**/*.handlebars'],
+                files: ['templates/**/*.handlebars','guide.json'],
                 tasks: ['compile-handlebars'],
                 options: {
                  spawn: false,
