@@ -672,23 +672,6 @@
     ]
 },
 {
-    "cat":"Typography",
-    "info": {
-        "title":"",
-        "description":[
-            ""
-        ],
-        "url":"",
-        "articles":[
-            
-        ],
-        "videos":[
-        ]
-    },
-    "items":[
-    ]
-},
-{
     "cat":"Git",
     "info": {
         "title":"Git",
