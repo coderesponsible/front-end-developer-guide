@@ -1,0 +1,35 @@
+.items{
+    li{
+        width:100%;
+        background:$lightGrey;
+        @include rem("padding", 100, 0);
+
+        &:nth-child(odd){
+            background:white;
+        }
+
+        .block{
+            width:50%;
+            float:left;
+
+            @include breakpoint(768){
+                width:100%;
+            }
+        }
+
+        @include breakpoint(600){
+            @include rem("padding", 50, 0);
+        }
+
+        h2{
+            font-family:$helvetica;
+            @include rem("font-size", 30);
+            color:$navyBlue;
+        }
+
+        h3{
+            @include rem("margin-top", 15);
+            @include rem("font-size", 24);
+        }
+    }
+}

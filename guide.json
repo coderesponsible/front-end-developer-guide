@@ -1,4 +1,4 @@
-[{
+{"guide":[{
     "cat":"General Web Theory",
     "info": {
         "title":"General Web Theory",
@@ -350,6 +350,30 @@
     },
     "items":[
         {
+            "title":"Handlebars",
+            "description":[
+                "Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.",
+                "Mustache templates are compatible with Handlebars, so you can take a Mustache template, import it into Handlebars, and start taking advantage of the extra Handlebars features."
+            ],
+            "url":"http://handlebarsjs.com/",
+            "articles":[
+                {
+                    "title":"Getting Started with Handlebars.js",
+                    "url":"http://blog.teamtreehouse.com/getting-started-with-handlebars-js"
+                },
+                {
+                    "title":"Handlebars.js Part 2: Partials and Helpers",
+                    "url":"http://blog.teamtreehouse.com/handlebars-js-part-2-partials-and-helpers"
+                },
+                {
+                    "title":"Handlebars.js Part 3: Tips and Tricks",
+                    "url":"http://blog.teamtreehouse.com/handlebars-js-part-3-tips-and-tricks"
+                }
+            ],
+            "videos":[
+            ]
+        },
+        {
             "title":"Hogan.js",
             "description":[
                 "Hogan.js is a 3.4k JS templating engine developed at Twitter. Use it as a part of your asset packager to compile templates ahead of time or include it in your browser to handle dynamic templates."
@@ -456,6 +480,14 @@
             {
                 "title":"Animating SVG CSS",
                 "url":"http://css-tricks.com/animating-svg-css/"
+            },
+            {
+                "title":"Getting to know CSS Blend Modes",
+                "url":"http://dev.opera.com/articles/getting-to-know-css-blend-modes/"
+            },
+            {
+                "title":"Adaptive Placeholders",
+                "url":"http://blog.circleci.com/adaptive-placeholders/"
             }
         ],
         "videos":[
@@ -652,23 +684,6 @@
                 "title":"Ethical Dilemmas in Web Accessibility",
                 "url":"http://www.sitepoint.com/ethical-dilemmas-web-accessibility/"
             }
-        ],
-        "videos":[
-        ]
-    },
-    "items":[
-    ]
-},
-{
-    "cat":"Typography",
-    "info": {
-        "title":"",
-        "description":[
-            ""
-        ],
-        "url":"",
-        "articles":[
-            
         ],
         "videos":[
         ]
@@ -1099,4 +1114,26 @@
     },
     "items":[
     ]
+},
+{
+    "cat":"Email",
+    "info": {
+        "title":"",
+        "description":[
+            ""
+        ],
+        "url":"",
+        "articles":[
+            {
+                "title":"Email Design: A Community of Hacks",
+                "url":"https://litmus.com/blog/email-design-a-community-of-hacks"
+            }
+        ],
+        "videos":[
+        ]
+    },
+    "items":[
+    ]
 }]
+}
+    

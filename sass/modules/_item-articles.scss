@@ -1,0 +1,24 @@
+.item-articles{
+
+    li{
+        display:block;
+        width:90%;
+        min-height:0;
+        padding:0;
+        background:none;
+        margin-top:0;
+        @include rem("margin-bottom", 15);
+        &:nth-child(odd){
+            background:none;
+        }
+
+        a{
+            color:$green;
+            text-decoration:none;
+
+            &:hover, &:focus{
+                color:darken($green, 10%);
+            }
+        }
+    }
+}

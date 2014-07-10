@@ -171,8 +171,6 @@ header {
   zoom: 1;
   *display: inline;
   vertical-align: top;
-  padding: 30px;
-  padding: 1.875rem;
   min-height: 100px;
   min-height: 6.25rem;
   background: none; }
@@ -195,6 +193,8 @@ header {
       color: #4dbdcb; }
       .item-list li h4 a:hover, .item-list li h4 a:focus {
         color: #226e76; }
+  .item-list li h4, .item-list li p {
+    width: 90%; }
 .item-list h5 {
   font-size: 18px;
   font-size: 1.125rem;
@@ -203,10 +203,11 @@ header {
 
 .item-articles li {
   display: block;
-  width: 100%;
+  width: 90%;
   min-height: 0;
   padding: 0;
   background: none;
+  margin-top: 0;
   margin-bottom: 15px;
   margin-bottom: 0.9375rem; }
   .item-articles li:nth-child(odd) {
@@ -216,6 +217,46 @@ header {
     text-decoration: none; }
     .item-articles li a:hover, .item-articles li a:focus {
       color: #19923f; }
+
+.contributors {
+  background: #414346;
+  text-align: center; }
+  .contributors .row {
+    padding: 50px 0px;
+    padding: 3.125rem 0rem; }
+  .contributors h3 {
+    font-size: 30px;
+    font-size: 1.875rem;
+    margin-bottom: 30px;
+    margin-bottom: 1.875rem;
+    color: white; }
+  .contributors ul li {
+    display: inline;
+    display: -moz-inline-stack;
+    display: inline-block;
+    vertical-align: top;
+    zoom: 1;
+    *display: inline;
+    text-align: center;
+    width: 200px;
+    width: 12.5rem; }
+  .contributors a {
+    color: white;
+    font-size: 16px;
+    font-size: 1rem; }
+    .contributors a:hover img, .contributors a:focus img {
+      opacity: 0.5;
+      filter: alpha(opacity=50); }
+    .contributors a img {
+      -webkit-border-radius: 100px;
+      -moz-border-radius: 100px;
+      border-radius: 100px;
+      border: 5px solid white; }
+    .contributors a .name {
+      display: block;
+      color: white;
+      margin-top: 10px;
+      margin-top: 0.625rem; }
 
 .window {
   display: none;

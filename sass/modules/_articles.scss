@@ -1,0 +1,19 @@
+.articles{
+    li{
+        padding:0;
+        background:none;
+        @include rem("margin-bottom", 15);
+        &:nth-child(odd){
+            background:none;
+        }
+
+        a{
+            color:$green;
+            text-decoration:none;
+
+            &:hover, &:focus{
+                color:darken($green, 10%);
+            }
+        }
+    }
+}

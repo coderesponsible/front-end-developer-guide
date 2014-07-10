@@ -22,7 +22,7 @@ module.exports = function(grunt) {
                 options: {
                 },
                 files: {
-                  'js/build/guide.js': ['js/guide.js', 'js/modals.js']
+                    'js/build/guide.js': ['js/modals.js', 'js/guide.js']
                 },
             }
         },
@@ -65,6 +65,18 @@ module.exports = function(grunt) {
                 push: false
             }
         },
+        'compile-handlebars': {
+            allStatic: {
+                preHTML: 'templates/header.handlebars',
+                postHTML: 'templates/footer.handlebars',
+                template: 'templates/template.handlebars',
+                templateData: 'guide.json',
+                output: 'index.html',
+                globals: [
+                    'content/contributors.json'
+                ]
+            },
+        },
         watch: {
             css: {
                 files: 'sass/**/*.scss',
@@ -88,6 +100,13 @@ module.exports = function(grunt) {
               options: {
               spawn: false,
               }
+            },
+            templates: {
+                files: ['templates/**/*.handlebars','guide.json'],
+                tasks: ['compile-handlebars'],
+                options: {
+                 spawn: false,
+                }
             }
         }
     });
@@ -99,5 +118,6 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-newer');
     grunt.loadNpmTasks('grunt-bump');
     grunt.loadNpmTasks('grunt-browserify');
+    grunt.loadNpmTasks('grunt-compile-handlebars');
     grunt.registerTask('default',['watch']);
 }
