@@ -1,0 +1,49 @@
+.item-list{
+    
+
+    li{
+        padding:0;
+        width:30%;
+        @include inline-block();
+        vertical-align:top;
+        @include rem("min-height", 100);
+        background:none;
+
+        &:nth-child(odd){
+            background:none;
+        }
+
+        @include breakpoint(870){
+            width:50%;
+        }
+
+        @include breakpoint(600){
+            width:100%;
+            @include rem("padding", 20, 0);
+        }
+
+        h4{
+            font-family:$helvetica;
+            @include rem("font-size", 24);
+
+            a{
+                text-decoration:none;
+                color:$blue;
+
+                &:hover, &:focus{
+                    color:darken($blue, 25%);
+                }
+            }
+        }
+
+        h4,
+        p{
+            width:90%;
+        }
+    }
+
+    h5{
+        @include rem("font-size", 18);
+        @include rem("margin", 15, 0, 5, 0);
+    }
+}

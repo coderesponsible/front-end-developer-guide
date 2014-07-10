@@ -171,15 +171,9 @@ header {
   zoom: 1;
   *display: inline;
   vertical-align: top;
-  margin-top: 30px;
-  margin-top: 1.875rem;
-  margin-left: 30px;
-  margin-left: 1.875rem;
   min-height: 100px;
   min-height: 6.25rem;
   background: none; }
-  .item-list li:first-child {
-    margin-left: 0; }
   .item-list li:nth-child(odd) {
     background: none; }
   @media only screen and (max-width: 870px) {
@@ -199,6 +193,8 @@ header {
       color: #4dbdcb; }
       .item-list li h4 a:hover, .item-list li h4 a:focus {
         color: #226e76; }
+  .item-list li h4, .item-list li p {
+    width: 90%; }
 .item-list h5 {
   font-size: 18px;
   font-size: 1.125rem;
@@ -207,11 +203,10 @@ header {
 
 .item-articles li {
   display: block;
-  width: 100%;
+  width: 90%;
   min-height: 0;
   padding: 0;
   background: none;
-  margin-left: 0;
   margin-top: 0;
   margin-bottom: 15px;
   margin-bottom: 0.9375rem; }
