@@ -803,6 +803,10 @@
                 {
                     "title":"Quick intro to Gulp.js",
                     "url":"http://www.codefellows.org/blogs/quick-intro-to-gulp-js"
+                },
+                {
+                    "title": "Learning Gulp - Getting Started with the Frontend Factory" ,
+                    "url":"http://hmphry.com/gulp/"
                 }
             ],
             "videos":[
