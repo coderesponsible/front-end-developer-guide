@@ -480,6 +480,14 @@
             {
                 "title":"Animating SVG CSS",
                 "url":"http://css-tricks.com/animating-svg-css/"
+            },
+            {
+                "title":"Getting to know CSS Blend Modes",
+                "url":"http://dev.opera.com/articles/getting-to-know-css-blend-modes/"
+            },
+            {
+                "title":"Adaptive Placeholders",
+                "url":"http://blog.circleci.com/adaptive-placeholders/"
             }
         ],
         "videos":[
