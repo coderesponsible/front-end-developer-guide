@@ -171,11 +171,15 @@ header {
   zoom: 1;
   *display: inline;
   vertical-align: top;
-  padding: 30px;
-  padding: 1.875rem;
+  margin-top: 30px;
+  margin-top: 1.875rem;
+  margin-left: 30px;
+  margin-left: 1.875rem;
   min-height: 100px;
   min-height: 6.25rem;
   background: none; }
+  .item-list li:first-child {
+    margin-left: 0; }
   .item-list li:nth-child(odd) {
     background: none; }
   @media only screen and (max-width: 870px) {
@@ -207,6 +211,8 @@ header {
   min-height: 0;
   padding: 0;
   background: none;
+  margin-left: 0;
+  margin-top: 0;
   margin-bottom: 15px;
   margin-bottom: 0.9375rem; }
   .item-articles li:nth-child(odd) {
