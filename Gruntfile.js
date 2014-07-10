@@ -67,9 +67,14 @@ module.exports = function(grunt) {
         },
         'compile-handlebars': {
             allStatic: {
+                preHTML: 'templates/header.handlebars',
+                postHTML: 'templates/footer.handlebars',
                 template: 'templates/template.handlebars',
                 templateData: 'guide.json',
-                output: 'index.html'
+                output: 'index.html',
+                globals: [
+                    'content/contributors.json'
+                ]
             },
         },
         watch: {

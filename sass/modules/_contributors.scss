@@ -1,0 +1,45 @@
+.contributors{
+    background:#414346;
+    text-align:center;
+
+    .row{
+        @include rem("padding", 50, 0);
+    }
+
+    h3{
+        @include rem("font-size", 30);
+        @include rem("margin-bottom", 30);
+        color:white;
+    }
+
+    ul{
+        li{
+            display:inline;
+            @include inline-block();
+            text-align:center;
+            @include rem("width", 200);
+        }
+    }
+
+    a{
+        color:white;
+        @include rem("font-size", 16);
+
+        &:hover, &:focus{
+            img{
+                @include opacity(.5);
+            }
+        }
+
+        img{
+            @include roundedCorners(100);
+            border:5px solid white;
+        }
+
+        .name{
+            display:block;
+            color:white;
+            @include rem("margin-top", 10);
+        }
+    }
+}
