@@ -807,6 +807,10 @@
                 {
                     "title": "Learning Gulp - Getting Started with the Frontend Factory" ,
                     "url":"http://hmphry.com/gulp/"
+                },
+                {
+                    "title": "Building With Gulp" ,
+                    "url":"http://www.smashingmagazine.com/2014/06/11/building-with-gulp/"
                 }
             ],
             "videos":[
