@@ -33,38 +33,6 @@ module.exports = function(grunt) {
               },
             }
         },
-        imagemin: {                          
-            static: {                          
-              options: {                   
-                optimizationLevel: 3
-              },
-              files: {                         
-                'images/logo.png': 'images/logo.png'
-              }
-            },
-            dynamic: {                         
-              files: [{
-                expand: true,                  
-                cwd: 'images/',
-                src: ['**/*.{png,jpg,gif}'],   
-                dest: 'images/'                 
-              }]
-            }
-        },
-        bump: {
-            options: {
-                files: ['package.json', 'bower.json'],
-                updateConfigs: ["pkg"],
-                commit: true,
-                commitMessage: 'Release v%VERSION%',
-                commitFiles: ['package.json'], // '-a' for all files
-                createTag: true,
-                tagName: 'v%VERSION%',
-                tagMessage: 'Version %VERSION%',
-                commitFiles: ["-a"],
-                push: false
-            }
-        },
         'compile-handlebars': {
             allStatic: {
                 preHTML: 'templates/header.handlebars',
@@ -88,18 +56,11 @@ module.exports = function(grunt) {
             },
             scripts: {
                 files: 'js/**/*.js',
-                tasks: ['newer:browserify', 'uglify'],
+                tasks: ['newer:browserify', 'newer:uglify'],
                 options: { 
                     spawn: false,
                     livereload: true 
                 },
-            },
-            images: {
-              files: ['images/**/*.{png,jpg,gif}'],
-              tasks: ['imagemin'],
-              options: {
-              spawn: false,
-              }
             },
             templates: {
                 files: ['templates/**/*.handlebars','guide.json'],
