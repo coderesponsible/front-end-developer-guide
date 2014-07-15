@@ -26,8 +26,7 @@
             }else if(content.indexOf('vimeo.com/') !== -1){
                 var vidId = content.split('vimeo.com/');
                 vidId = vidId[1];
-                fullContent = '<iframe src="//player.vimeo.com/video/'+ vidId +'?color=9C191E&amp;autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
-
+                fullContent = '<iframe src="//player.vimeo.com/video/'+ vidId +'?color=9C191E&amp;autoplay=1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>';
             }else if(content.indexOf('jpg') !== -1 || content.indexOf('png') !== -1){
                 fullContent = '<img src="'+ content +'">';
             }
