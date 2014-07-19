@@ -3,6 +3,8 @@ Front End Developer Guide
 
 A detailed list of resources to learn more about Front End Development. The guide contains a lot of helpful articles, video and content to help you learn about a long list of Front End technologies.
 
+## View the page
+
 [View the guide](http://coderesponsible.com/front-end-developer-guide/)
 
 ## Contributing
