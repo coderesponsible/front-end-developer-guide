@@ -496,6 +496,10 @@
             {
                 "title":"Adaptive Placeholders",
                 "url":"http://blog.circleci.com/adaptive-placeholders/"
+            },
+            {
+                "title":"Authoring Critical Above-the-Fold CSS",
+                "url":"http://css-tricks.com/authoring-critical-fold-css/"
             }
         ],
         "videos":[
@@ -1157,7 +1161,12 @@
             {
                 "title":"Breakpoints And The Future Of Websites",
                 "url":"http://www.smashingmagazine.com/2014/07/08/breakpoints-and-the-future-websites/"
+            },
+            {
+                "title":"Prioritizing Devices: Testing And Responsive Web Design",
+                "url":"http://www.smashingmagazine.com/2014/07/14/testing-and-responsive-web-design/"
             }
+            
         ],
         "videos":[
             {
