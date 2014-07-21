@@ -130,8 +130,11 @@
             {
                 "title":"JavaScript Memory Leak Profiling",
                 "url":"https://developer.chrome.com/devtools/docs/javascript-memory-profiling"
+            },
+            {
+                "title":"Script-injected 'async scripts' considered harmful",
+                "url":"https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/"
             }
-
         ],
         "videos":[
             {
