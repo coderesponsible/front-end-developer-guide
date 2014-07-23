@@ -14,6 +14,10 @@
             {
                 "title":"Web Field Manual",
                 "url":"http://alistapart.com/article/responsive-web-design"
+            },
+            {
+                "title":"Front-end Style Guides",
+                "url":"http://24ways.org/2011/front-end-style-guides/"
             }
         ],
         "videos":[
