@@ -272,6 +272,21 @@
             ]
         },
         {
+            "title":"Polymer",
+            "description":[
+                "Polymer is a library that uses the latest web technologies to let you create custom HTML elements. Build anything from a button to a complete application as an encapsulated, reusable element that works across desktop and mobile."
+            ],
+            "url":"http://knockoutjs.com/",
+            "articles":[
+            ],
+            "videos":[
+                {
+                    "title":"Componentize the Web",
+                    "url":"https://www.youtube.com/watch?v=2toYLLcoY14"
+                }
+            ]
+        },
+        {
             "title":"Meteor",
             "description":[
                 "Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started."
