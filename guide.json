@@ -667,6 +667,10 @@
             {
                 "title":"Error Handling in Node.js",
                 "url":"http://www.joyent.com/developers/node/design/errors"
+            },
+            {
+                "title":"Node.js Resources",
+                "url":"https://www.joyent.com/developers/node"
             }
         ],
         "videos":[
