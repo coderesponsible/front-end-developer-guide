@@ -12,6 +12,7 @@
     "grunt-sass": "~0.11.0",
     "grunt-browserify": "~2.1.0",
     "browserify": "~4.1.11",
-    "grunt-compile-handlebars": "~0.7.5"
+    "grunt-compile-handlebars": "~0.7.5",
+    "grunt-assemble": "~0.1.15"
   }
 }
