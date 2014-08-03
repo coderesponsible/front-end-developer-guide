@@ -1,0 +1,38 @@
+{"guide":[{
+    "cat":"Responsive",
+    "info": {
+        "title":"",
+        "description":[
+            ""
+        ],
+        "url":"",
+        "articles":[
+            {
+                "title":"Techniques for Context Specific Images",
+                "url":"http://css-tricks.com/techniques-for-context-specific-images/"
+            },
+            {
+                "title":"A non-responsive approach to building cross-device webapps",
+                "url":"http://www.html5rocks.com/en/mobile/cross-device/"
+            },
+            {
+                "title":"Breakpoints And The Future Of Websites",
+                "url":"http://www.smashingmagazine.com/2014/07/08/breakpoints-and-the-future-websites/"
+            },
+            {
+                "title":"Prioritizing Devices: Testing And Responsive Web Design",
+                "url":"http://www.smashingmagazine.com/2014/07/14/testing-and-responsive-web-design/"
+            }
+            
+        ],
+        "videos":[
+            {
+                "title":"How DevTools can improve your Mobile Workflow",
+                "url":"https://www.youtube.com/watch?v=O3W1yuq-ZlE"
+            }
+        ]
+    },
+    "items":[
+    ]  
+}]
+}

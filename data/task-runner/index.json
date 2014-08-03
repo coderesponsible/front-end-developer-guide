@@ -1,0 +1,95 @@
+{"guide":[{
+    "cat":"Task Runner",
+    "info": {
+        "title":"Task Runner",
+        "description":[
+            ""
+        ],
+        "url":"",
+        "articles":[
+            
+        ],
+        "videos":[
+        ]
+    },
+    "items":[
+        {
+            "title":"Grunt",
+            "description":[
+                "In one word: automation. The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc, the easier your job becomes. After you've configured it, a task runner can do most of that mundane work for you—and your team—with basically zero effort."
+            ],
+            "url":"http://gruntjs.com/",
+            "articles":[
+                {
+                    "title":"Grunt for People Who Think Things Like Grunt are Weird and Hard",
+                    "url":"http://24ways.org/2013/grunt-is-not-weird-and-hard/"
+                },
+                {
+                    "title":"Setting up Sass with Grunt",
+                    "url":"http://culttt.com/2013/11/18/setting-sass-grunt/"
+                },
+                {
+                    "title":"Grunt.js Workflow",
+                    "url":"http://merrickchristensen.com/articles/gruntjs-workflow.html"
+                },
+                {
+                    "title":"Grunt And Gulp Tasks For Performance Optimization",
+                    "url":"http://yeoman.io/blog/performance-optimization.html"
+                },
+                {
+                    "title":"Getting started with Grunticon",
+                    "url":"http://blog.iconfinder.com/get-started-with-grunticon/"
+                }
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"Gulp",
+            "description":[
+                "Build system automating tasks: minification and copying of all JavaScript files, static images, capable of watching files to automatically rerun the task when a file is updated."
+            ],
+            "url":"http://gulpjs.com/",
+            "articles":[
+                {
+                    "title":"An Introduction to Gulp.js",
+                    "url":"http://www.sitepoint.com/introduction-gulp-js/"
+                },
+                {
+                    "title":"Managing Your Build Tasks With Gulp.js",
+                    "url":"http://code.tutsplus.com/tutorials/managing-your-build-tasks-with-gulpjs--net-36910"
+                },
+                {
+                    "title":"Quick intro to Gulp.js",
+                    "url":"http://www.codefellows.org/blogs/quick-intro-to-gulp-js"
+                },
+                {
+                    "title": "Learning Gulp - Getting Started with the Frontend Factory" ,
+                    "url":"http://hmphry.com/gulp/"
+                },
+                {
+                    "title": "Building With Gulp" ,
+                    "url":"http://www.smashingmagazine.com/2014/06/11/building-with-gulp/"
+                }
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"CodeKit",
+            "description":[
+                "CodeKit compiles Less, Sass, Stylus, Jade, Haml, Slim, CoffeeScript, Javascript, TypeScript, Markdown and Compass files automatically each time you save."
+            ],
+            "url":"https://incident57.com/codekit/",
+            "articles":[
+                {
+                    "title":"On CodeKit 2.0",
+                    "url":"http://css-tricks.com/codekit-2-0/"
+                }
+            ],
+            "videos":[
+            ] 
+        }
+    ]  
+}]
+}

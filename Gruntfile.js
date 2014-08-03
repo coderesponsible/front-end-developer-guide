@@ -11,7 +11,7 @@ module.exports = function(grunt) {
                     expand: true,
                     cwd: 'sass/',
                     src: ['**/*.scss'],
-                    dest: 'css/',
+                    dest: 'output/css/',
                     ext: '.css',
                   },
                 ],
@@ -22,27 +22,37 @@ module.exports = function(grunt) {
                 options: {
                 },
                 files: {
-                    'js/build/guide.js': ['js/modals.js', 'js/guide.js']
+                    'output/js/build/guide.js': ['js/modals.js', 'js/guide.js']
                 },
             }
         },
         uglify: {
             dist: {
               files:{
-                    'js/build/guide.min.js': ['js/build/guide.js']
+                    'output/js/build/guide.min.js': ['js/build/guide.js']
               },
             }
         },
         'compile-handlebars': {
-            allStatic: {
-                preHTML: 'templates/header.handlebars',
-                postHTML: 'templates/footer.handlebars',
-                template: 'templates/template.handlebars',
-                templateData: 'guide.json',
-                output: 'index.html',
-                globals: [
-                    'content/contributors.json'
-                ]
+            // allStatic: {
+            //     preHTML: 'templates/header.handlebars',
+            //     postHTML: 'templates/footer.handlebars',
+            //     template: 'templates/template.handlebars',
+            //     templateData: 'data/html.json',
+            //     output: 'index.html',
+            //     globals: [
+            //         'content/contributors.json'
+            //     ]
+            // },
+            globalJsonGlobbedTemplate: {
+              preHTML: 'partials/header.handlebars',
+              postHTML: 'partials/footer.handlebars',
+              template: 'templates/**/*.handlebars',
+              templateData: 'data/**/*.json',
+              output: 'output/**/*.html',
+              globals: [
+                 'content/contributors.json'
+              ]
             },
         },
         watch: {
@@ -71,7 +81,6 @@ module.exports = function(grunt) {
             }
         }
     });
-    //grunt.loadNpmTasks('grunt-contrib-sass');
     grunt.loadNpmTasks('grunt-sass');
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-contrib-uglify');

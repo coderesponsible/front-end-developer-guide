@@ -1,0 +1,15 @@
+<section id="content" class="list-items">
+    <ul class="row">
+        {{#pages}}
+            <li><a href="{{url}}">{{title}}</a></li>
+        {{/pages}}
+    </ul>
+<footer class="contributors">
+    <div class="row">
+        <h3>Contributors</h3>
+        <ul class="item-articles">
+        {{#contributors}}
+                <li><a href="{{url}}"><img src="https://avatars1.githubusercontent.com/u/{{image}}?s=120" alt="{{name}} profile image"><span class="name">{{name}}</span></a></li>
+        {{/contributors}}
+    </div>
+</footer>

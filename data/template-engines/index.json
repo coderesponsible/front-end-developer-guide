@@ -1,0 +1,107 @@
+{"guide":[{
+    "cat":"Template Engines",
+    "info": {
+        "title":"HandlebarsJS",
+        "description":[
+            "Handlebars provides the power necessary to let you build semantic templates effectively with no frustration. Mustache templates are compatible with Handlebars, so you can take a Mustache template, import it into Handlebars, and start taking advantage of the extra Handlebars features."
+        ],
+        "url":"http://handlebarsjs.com/",
+        "articles":[
+            
+        ],
+        "videos":[
+        ]
+    },
+    "items":[
+        {
+            "title":"Handlebars",
+            "description":[
+                "Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.",
+                "Mustache templates are compatible with Handlebars, so you can take a Mustache template, import it into Handlebars, and start taking advantage of the extra Handlebars features."
+            ],
+            "url":"http://handlebarsjs.com/",
+            "articles":[
+                {
+                    "title":"Getting Started with Handlebars.js",
+                    "url":"http://blog.teamtreehouse.com/getting-started-with-handlebars-js"
+                },
+                {
+                    "title":"Handlebars.js Part 2: Partials and Helpers",
+                    "url":"http://blog.teamtreehouse.com/handlebars-js-part-2-partials-and-helpers"
+                },
+                {
+                    "title":"Handlebars.js Part 3: Tips and Tricks",
+                    "url":"http://blog.teamtreehouse.com/handlebars-js-part-3-tips-and-tricks"
+                }
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"Hogan.js",
+            "description":[
+                "Hogan.js is a 3.4k JS templating engine developed at Twitter. Use it as a part of your asset packager to compile templates ahead of time or include it in your browser to handle dynamic templates."
+            ],
+            "url":"http://twitter.github.io/hogan.js/",
+            "articles":[
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"Mustache",
+            "description":[
+                "Logic-less templates. Available in Ruby, JavaScript, Python, Erlang, node.js, PHP, Perl, Objective-C, Java"
+            ],
+            "url":"http://mustache.github.io/",
+            "articles":[
+                {
+                    "title":"Introduction to JavaScript templating using mustache.js",
+                    "url":"http://www.lynda.com/articles/introduction-to-javascript-templating-using-mustache-js"
+                }
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"ICanHaz.js",
+            "description":[
+                "Simple & powerful client-side templating."
+            ],
+            "url":"http://icanhazjs.com/",
+            "articles":[
+                
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"Walrus",
+            "description":[
+                "Walrus is a templating library inspired by mustache, handlebars, ejs and friends, but with a couple of important differences in philosophy and style."
+            ],
+            "url":"http://documentup.com/jeremyruppel/walrus/",
+            "articles":[
+                
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"jade",
+            "description":[
+                "Jade is templating engine built primarily for server-side templating in node.js."
+            ],
+            "url":"http://jade-lang.com/",
+            "articles":[
+                {
+                    "title":"Feeling Jaded with Jade? Don't Be!",
+                    "url":"http://www.codeproject.com/Articles/717798/Feeling-Jaded-with-Jade"
+                }
+            ],
+            "videos":[
+            ]
+        }
+    ]  
+}]
+}

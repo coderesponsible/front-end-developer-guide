@@ -121,29 +121,25 @@ header {
       header h1 {
         width: 80%; } }
 
-.items li {
+.items {
   width: 100%;
   background: #efefef;
-  padding: 100px 0px;
-  padding: 6.25rem 0rem; }
-  .items li:nth-child(odd) {
+  padding-top: 30px;
+  padding-top: 1.875rem; }
+  .items:nth-child(odd) {
     background: white; }
-  .items li .block {
+  .items .block {
     width: 50%;
     float: left; }
     @media only screen and (max-width: 768px) {
-      .items li .block {
+      .items .block {
         width: 100%; } }
-  @media only screen and (max-width: 600px) {
-    .items li {
-      padding: 50px 0px;
-      padding: 3.125rem 0rem; } }
-  .items li h2 {
+  .items h2 {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 30px;
     font-size: 1.875rem;
     color: #5580a0; }
-  .items li h3 {
+  .items h3 {
     margin-top: 15px;
     margin-top: 0.9375rem;
     font-size: 24px;
@@ -219,6 +215,8 @@ header {
       color: #19923f; }
 
 .contributors {
+  margin-top: 30px;
+  margin-top: 1.875rem;
   background: #414346;
   text-align: center; }
   .contributors .row {
