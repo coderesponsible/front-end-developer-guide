@@ -18,6 +18,10 @@
             {
                 "title":"Front-end Style Guides",
                 "url":"http://24ways.org/2011/front-end-style-guides/"
+            },
+            {
+                "title":"What Every Frontend Developer Should Know About Webpage Rendering",
+                "url":"http://frontendbabel.info/articles/webpage-rendering-101/"
             }
         ],
         "videos":[

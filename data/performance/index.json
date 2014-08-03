@@ -18,6 +18,22 @@
             {
                 "title":"A Beginner's Guide to Perceived Performance: 4 Ways to Make Your Mobile Site Feel Like a Native App",
                 "url":"http://www.mobify.com/blog/beginners-guide-to-perceived-performance/"
+            },
+            {
+                "title":"The Runtime Performance Checklist",
+                "url":"http://calendar.perfplanet.com/2013/the-runtime-performance-checklist/"
+            },
+            {
+                "title":"The Runtime Performance Checklist",
+                "url":"http://calendar.perfplanet.com/2013/the-runtime-performance-checklist/"
+            },
+            {
+                "title":"High Performance Animations",
+                "url":"http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/"
+            },
+            {
+                "title":"Preventing 'layout thrashing'",
+                "url":"http://wilsonpage.co.uk/preventing-layout-thrashing/"
             }
         ],
         "videos":[
@@ -36,10 +52,14 @@
             {
                 "title":"A developer's guide to rendering performance",
                 "url":"http://vimeo.com/77591536"
+            },
+            {
+                "title":"classList for Great Good!",
+                "url":"https://www.youtube.com/watch?v=hZJacl2VkKo"
             }
         ]
     },
     "items":[
-    ]  
+    ] 
 }]
 }

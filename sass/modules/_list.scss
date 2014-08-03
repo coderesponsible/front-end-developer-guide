@@ -1,0 +1,13 @@
+.list{
+    @include rem("margin", 30, 0);
+    li{
+        a{
+            text-decoration:none;
+            color:darken($blue, 25%);
+
+            &:hover, &:focus{
+                color:$blue;
+            }
+        }
+    }
+}

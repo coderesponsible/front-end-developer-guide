@@ -5,6 +5,15 @@ header{
     h1{
         color:$blue;
 
+        a{
+            color:$blue;
+            text-decoration:none;
+
+            &:hover, &:focus{
+                color:darken($blue, 20%);
+            }
+        }
+
         @include breakpoint(460){
             width:80%;
         }

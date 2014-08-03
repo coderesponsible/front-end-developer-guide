@@ -7,6 +7,10 @@
         ],
         "url":"",
         "articles":[
+            {
+                "title":"Testing Private Functions in JavaScript Modules",
+                "url":"http://engineering.clever.com/2014/07/29/testing-private-functions-in-javascript-modules/"
+            }
         ],
         "videos":[
         ]

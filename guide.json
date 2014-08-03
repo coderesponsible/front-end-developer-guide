@@ -18,6 +18,10 @@
             {
                 "title":"Front-end Style Guides",
                 "url":"http://24ways.org/2011/front-end-style-guides/"
+            },
+            {
+                "title":"What Every Frontend Developer Should Know About Webpage Rendering",
+                "url":"http://frontendbabel.info/articles/webpage-rendering-101/"
             }
         ],
         "videos":[
@@ -138,6 +142,10 @@
             {
                 "title":"Script-injected 'async scripts' considered harmful",
                 "url":"https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/"
+            },
+            {
+                "title":"JavaScript Allongé",
+                "url":"https://leanpub.com/javascript-allonge/read"
             }
         ],
         "videos":[
@@ -323,6 +331,10 @@
             ],
             "url":"http://facebook.github.io/react/",
             "articles":[
+                {
+                    "title":"React.js and How Does It Fit In With Everything Else?",
+                    "url":"http://www.funnyant.com/reactjs-what-is-it/"
+                }
             ],
             "videos":[
             ]
@@ -998,6 +1010,22 @@
             {
                 "title":"A Beginner's Guide to Perceived Performance: 4 Ways to Make Your Mobile Site Feel Like a Native App",
                 "url":"http://www.mobify.com/blog/beginners-guide-to-perceived-performance/"
+            },
+            {
+                "title":"The Runtime Performance Checklist",
+                "url":"http://calendar.perfplanet.com/2013/the-runtime-performance-checklist/"
+            },
+            {
+                "title":"The Runtime Performance Checklist",
+                "url":"http://calendar.perfplanet.com/2013/the-runtime-performance-checklist/"
+            },
+            {
+                "title":"High Performance Animations",
+                "url":"http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/"
+            },
+            {
+                "title":"Preventing 'layout thrashing'",
+                "url":"http://wilsonpage.co.uk/preventing-layout-thrashing/"
             }
         ],
         "videos":[
@@ -1016,6 +1044,10 @@
             {
                 "title":"A developer's guide to rendering performance",
                 "url":"http://vimeo.com/77591536"
+            },
+            {
+                "title":"classList for Great Good!",
+                "url":"https://www.youtube.com/watch?v=hZJacl2VkKo"
             }
         ]
     },
@@ -1137,6 +1169,10 @@
         ],
         "url":"",
         "articles":[
+            {
+                "title":"Testing Private Functions in JavaScript Modules",
+                "url":"http://engineering.clever.com/2014/07/29/testing-private-functions-in-javascript-modules/"
+            }
         ],
         "videos":[
         ]
