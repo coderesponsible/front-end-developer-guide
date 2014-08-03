@@ -167,10 +167,10 @@ header {
   .articles li:nth-child(odd) {
     background: none; }
   .articles li a {
-    color: #20be54;
+    color: #226e76;
     text-decoration: none; }
     .articles li a:hover, .articles li a:focus {
-      color: #19923f; }
+      color: #4dbdcb; }
 .articles.videos li {
   display: -moz-inline-stack;
   display: inline-block;

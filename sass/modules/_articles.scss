@@ -8,11 +8,11 @@
         }
 
         a{
-            color:$green;
+            color:darken($blue, 25%);
             text-decoration:none;
 
             &:hover, &:focus{
-                color:darken($green, 10%);
+                color:$blue;
             }
         }
     }
