@@ -22,14 +22,14 @@ module.exports = function(grunt) {
                 options: {
                 },
                 files: {
-                    'output/js/build/guide.js': ['js/modals.js', 'js/guide.js']
+                    'output/js/build/guide.js': ['js/modals.js', 'js/guide.js', 'js/video-thumbs.js']
                 },
             }
         },
         uglify: {
             dist: {
               files:{
-                    'output/js/build/guide.min.js': ['js/build/guide.js']
+                    'output/js/build/guide.min.js': ['output/js/build/guide.js']
               },
             }
         },

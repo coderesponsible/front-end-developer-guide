@@ -16,4 +16,26 @@
             }
         }
     }
+
+    &.videos{
+        li{
+            @include inline-block();
+            @include rem("width", 170);
+            @include rem("margin-right", 60);
+            text-align:center;
+
+            .title{
+                display:block;
+                text-align:center;
+                text-decoration:none;
+                color:darken($blue, 25%);
+                @include rem("width", 215);
+                @include margin-auto();
+
+                &:hover, &:focus{
+                    color:$blue;
+                }
+            }
+        }
+    }
 }

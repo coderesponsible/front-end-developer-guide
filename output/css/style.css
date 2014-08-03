@@ -171,6 +171,28 @@ header {
     text-decoration: none; }
     .articles li a:hover, .articles li a:focus {
       color: #19923f; }
+.articles.videos li {
+  display: -moz-inline-stack;
+  display: inline-block;
+  vertical-align: top;
+  zoom: 1;
+  *display: inline;
+  width: 170px;
+  width: 10.625rem;
+  margin-right: 60px;
+  margin-right: 3.75rem;
+  text-align: center; }
+  .articles.videos li .title {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #226e76;
+    width: 215px;
+    width: 13.4375rem;
+    margin-left: auto;
+    margin-right: auto; }
+    .articles.videos li .title:hover, .articles.videos li .title:focus {
+      color: #4dbdcb; }
 
 .item-list li {
   padding: 0;
