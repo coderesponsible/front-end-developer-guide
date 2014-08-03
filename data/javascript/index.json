@@ -1,0 +1,113 @@
+{"guide":[{
+    "cat":"JavaScript",
+    "info": {
+        "title":"JavaScript",
+        "description":[
+            "JavaScript (JS) is a dynamic computer programming language. It is most commonly used as part of web browsers, whose implementations allow client-side scripts to interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed. It is also being used in server-side network programming (with Node.js), game development and the creation of desktop and mobile applications."
+        ],
+        "url":"",
+        "articles":[
+            {
+                "title":"JavaScript the right way",
+                "url":"http://jstherightway.org/"
+            },
+            {
+                "title":"Getting Over jQuery",
+                "url":"http://blog.ponyfoo.com/2013/07/09/getting-over-jquery"
+            },
+            {
+                "title":"You Might Not Need jQuery",
+                "url":"http://youmightnotneedjquery.com/"
+            },
+            {
+                "title":"A Dive Into Plain JavaScript",
+                "url":"http://blog.adtile.me/2014/01/16/a-dive-into-plain-javascript/"
+            },
+            {
+                "title":"Understanding JavaScript OOP",
+                "url":"http://robotlolita.github.io/2011/10/09/understanding-javascript-oop.html"
+            },
+            {
+                "title":"A Deeper Look at Objects in JavaScript",
+                "url":"http://www.kirupa.com/html5/a_deeper_look_at_objects_in_javascript.htm"
+            },
+            {
+                "title":"Deploying JavaScript Applications",
+                "url":"https://alexsexton.com/blog/2013/03/deploying-javascript-applications/"
+            },
+            {
+                "title":"Revisiting JavaScript Objects",
+                "url":"http://www.laktek.com/2012/12/29/revisiting-javascript-objects/"
+            },
+            {
+                "title":"Learning JavaScript Design Patterns",
+                "url":"http://addyosmani.com/resources/essentialjsdesignpatterns/book/#factorypatternjavascript"
+            },
+            {
+                "title":"Journey Through The JavaScript MVC Jungle",
+                "url":"http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/"
+            },
+            {
+                "title":"Best Practices When Working With JavaScript Templates",
+                "url":"http://code.tutsplus.com/tutorials/best-practices-when-working-with-javascript-templates--net-28364"
+            },
+            {
+                "title":"Object properties in JavaScript",
+                "url":"http://www.2ality.com/2012/10/javascript-properties.html"
+            },
+            {
+                "title":"JavaScript Garden",
+                "url":"http://bonsaiden.github.io/JavaScript-Garden/"
+            },
+            {
+                "title":"JavaScript Allonge",
+                "url":"https://leanpub.com/javascript-allonge"
+            },
+            {
+                "title":"Codecademy Self-Paced JavaScript Course",
+                "url":"http://www.codecademy.com/tracks/javascript"
+            },
+            {
+                "title":"Speaking JavaScript",
+                "url":"http://speakingjs.com/es5/index.html"
+            },
+            {
+                "title":"Debugging Asynchronous JavaScript with Chrome DevTools",
+                "url":"http://www.html5rocks.com/en/tutorials/developertools/async-call-stack/"
+            },
+            {
+                "title":"Choosing a JS Framework",
+                "url":"http://todomvc.com/"
+            },
+            {
+                "title":"Script-injected 'async scripts' considered harmful",
+                "url":"https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/"
+            },
+            {
+                "title":"JavaScript Memory Leak Profiling",
+                "url":"https://developer.chrome.com/devtools/docs/javascript-memory-profiling"
+            },
+            {
+                "title":"Script-injected 'async scripts' considered harmful",
+                "url":"https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/"
+            }
+        ],
+        "videos":[
+            {
+                "title":"Paul Irish – Javascript Development Workflow for 2013",
+                "url":"https://www.youtube.com/watch?v=f7AU2Ozu8eo"
+            },
+            {
+                "title":"Mark DiMarco: User Interface Algorithms",
+                "url":"https://www.youtube.com/watch?v=90NsjKvz9Ns"
+            },
+            {
+                "title":"Neil Green: Writing Custom DSLs",
+                "url":"https://www.youtube.com/watch?v=lm4jEcnWeKI"
+            }
+        ]
+    },
+    "items":[
+    ]
+}]
+}

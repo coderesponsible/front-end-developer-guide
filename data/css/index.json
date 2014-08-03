@@ -1,0 +1,65 @@
+{"guide":[{
+    "cat":"CSS",
+    "info": {
+        "title":"",
+        "description":[
+            "Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written in a markup language. While most often used to style web pages and interfaces written in HTML and XHTML, the language can be applied to any kind of XML document, including plain XML, SVG and XUL. CSS is a cornerstone specification of the web and almost all web pages use CSS style sheets to describe their presentation."
+        ],
+        "url":"",
+        "articles":[
+            {
+                "title":"Media Query & Asset Downloading Results",
+                "url":"http://timkadlec.com/2012/04/media-query-asset-downloading-results/"
+            },
+            {
+                "title":"Preventing the Performance Hit from Custom Fonts",
+                "url":"http://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/"
+            },
+            {
+                "title":"Why Responsive Images Is So Hard",
+                "url":"https://www.readability.com/articles/paaucghp"
+            },
+            {
+                "title":"In Defense Of Rem Units",
+                "url":"http://techtime.getharvest.com/blog/in-defense-of-rem-units"
+            },
+            {
+                "title":"Bandwidth Media Queries? We Don’t Need ’Em!",
+                "url":"http://mobile.smashingmagazine.com/2013/01/09/bandwidth-media-queries-we-dont-need-em/"
+            },
+            {
+                "title":"CSS-Only Responsive Layout with Smooth Transitions",
+                "url":"http://tympanus.net/codrops/2012/06/12/css-only-responsive-layout-with-smooth-transitions/"
+            },
+            {
+                "title":"Styling your apps with Twitter Bootstrap",
+                "url":"http://www.adobe.com/devnet/html5/articles/twitter-bootstrap.html"
+            },
+            {
+                "title":"Animating SVG CSS",
+                "url":"http://css-tricks.com/animating-svg-css/"
+            },
+            {
+                "title":"Getting to know CSS Blend Modes",
+                "url":"http://dev.opera.com/articles/getting-to-know-css-blend-modes/"
+            },
+            {
+                "title":"Adaptive Placeholders",
+                "url":"http://blog.circleci.com/adaptive-placeholders/"
+            },
+            {
+                "title":"Authoring Critical Above-the-Fold CSS",
+                "url":"http://css-tricks.com/authoring-critical-fold-css/"
+            }
+        ],
+        "videos":[
+            {
+                "title":"Preprocessors Don't Solve Architecture Problems",
+                "url":"http://vimeo.com/99877232"
+            }
+        ]
+    },
+    "items":[
+    ]  
+}]
+}

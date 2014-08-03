@@ -1,0 +1,95 @@
+{"guide":[{
+    "cat":"Data Visualization",
+    "info": {
+        "title":"",
+        "description":[
+            "A modern branch of descriptive statistics, data visualization is the creation and study of the visual representation of data. The goal of data visualization is to take a dataset of any size and visually abstract that data in such a way that can we can make any information interpreted from the data almost intuitive for the user to see."
+        ],
+        "url":"",
+        "articles":[
+            {
+                "title": "Visualizing Algorithms",
+                "url": "http://bost.ocks.org/mike/algorithms/"
+            }
+        ],
+        "videos":[
+        ]
+    },
+    "items":[
+        {
+            "title":"D3 Data Driven Documents",
+            "description":[
+                "D3 helps you bring data to life using HTML, SVG and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation."
+            ],
+            "url":"https://d3js.org/",
+            "articles":[
+                {
+                    "title": "Why D3js is So Great for Data Visualization",
+                    "url": "https://blog.visual.ly/why-d3-js-is-so-great-for-data-visualization/"
+                }
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"Google Charts",
+            "description":[
+                ""
+            ],
+            "url":"https://developers.google.com/chart/",
+            "articles":[
+            ],
+            "videos":[
+                {
+                    "title": "Google I/O 2011: Using Google Chart Tools to Create Interactive Dashboards",
+                    "url": "https://www.youtube.com/watch?v=NZtgT4jgnE8"
+                }
+            ]
+        },
+        {
+            "title":"Highcharts",
+            "description":[
+                "Highcharts is a charting library written in pure JavaScript, offering an easy way of adding interactive charts to your web site or web application."
+            ],
+            "url":"https://www.highcharts.com/",
+            "articles":[
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"dimple",
+            "description":[
+                "An object-oriented API for business analytics powered by d3."
+            ],
+            "url":"https://dimplejs.org/",
+            "articles":[
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"sigmajs",
+            "description":[
+                "Sigma is a JavaScript library dedicated to graph drawing. It makes easy to publish networks on Web pages, and allows developers to integrate network exploration in rich Web applications."
+            ],
+            "url":"https://sigmajs.org/",
+            "articles":[
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"Ember-Charts",
+            "description":[
+                "A beautiful and easily extensible chart suite built with D3.js and Ember.js"
+            ],
+            "url":"http://addepar.github.io/#/ember-charts/overview",
+            "articles":[
+            ],
+            "videos":[
+            ]
+        }
+    ]  
+}]
+}

@@ -1,0 +1,32 @@
+{
+    "cat":"General Web Theory",
+    "info": {
+        "title":"General Web Theory",
+        "description":[
+            ""
+        ],
+        "url":"",
+        "articles":[
+            {
+                "title":"Responsive Web Design",
+                "url":"http://alistapart.com/article/responsive-web-design"
+            },
+            {
+                "title":"Web Field Manual",
+                "url":"http://alistapart.com/article/responsive-web-design"
+            },
+            {
+                "title":"Front-end Style Guides",
+                "url":"http://24ways.org/2011/front-end-style-guides/"
+            },
+            {
+                "title":"What Every Frontend Developer Should Know About Webpage Rendering",
+                "url":"http://frontendbabel.info/articles/webpage-rendering-101/"
+            }
+        ],
+        "videos":[
+        ]
+    },
+    "items":[
+    ]
+}

@@ -1,0 +1,65 @@
+{"guide":[{
+    "cat":"Performance",
+    "info": {
+        "title":"",
+        "description":[
+            "Web performance optimization is important for increasing the overall website load time speed."
+        ],
+        "url":"",
+        "articles":[
+            {
+                "title":"JavaScript Memory Leak Profiling",
+                "url":"https://developer.chrome.com/devtools/docs/javascript-memory-profiling"
+            },
+            {
+                "title":"Front-end Performance for Web Designers and Front-end Developers",
+                "url":"http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/"
+            },
+            {
+                "title":"A Beginner's Guide to Perceived Performance: 4 Ways to Make Your Mobile Site Feel Like a Native App",
+                "url":"http://www.mobify.com/blog/beginners-guide-to-perceived-performance/"
+            },
+            {
+                "title":"The Runtime Performance Checklist",
+                "url":"http://calendar.perfplanet.com/2013/the-runtime-performance-checklist/"
+            },
+            {
+                "title":"The Runtime Performance Checklist",
+                "url":"http://calendar.perfplanet.com/2013/the-runtime-performance-checklist/"
+            },
+            {
+                "title":"High Performance Animations",
+                "url":"http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/"
+            },
+            {
+                "title":"Preventing 'layout thrashing'",
+                "url":"http://wilsonpage.co.uk/preventing-layout-thrashing/"
+            }
+        ],
+        "videos":[
+            {
+                "title":"So, You Want to be a Front-End Engineer",
+                "url":"https://www.youtube.com/watch?v=Lsg84NtJbmI"
+            },
+            {
+                "title":"Accelerating Load Time, Run Time, and JS tooling",
+                "url":"https://www.youtube.com/watch?v=E8qvkGTwiV0"
+            },
+            {
+                "title":"Jank Free: Chrome Rendering Performance",
+                "url":"https://www.youtube.com/watch?v=n8ep4leoN9A"
+            },
+            {
+                "title":"A developer's guide to rendering performance",
+                "url":"http://vimeo.com/77591536"
+            },
+            {
+                "title":"classList for Great Good!",
+                "url":"https://www.youtube.com/watch?v=hZJacl2VkKo"
+            }
+        ]
+    },
+    "items":[
+    ] 
+}]
+}

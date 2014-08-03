@@ -1,0 +1,57 @@
+{"guide":[{
+    "cat":"Accessibility",
+    "info": {
+        "title":"Accessibility",
+        "description":[
+            "Web accessibility means that people with disabilities can use the Web. More specifically, Web accessibility means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web. Web accessibility also benefits others, including older people with changing abilities due to aging."
+        ],
+        "url":"",
+        "articles":[
+            {
+                "title":"Using WAI-ARIA Landmarks",
+                "url":"http://blog.paciellogroup.com/2013/02/using-wai-aria-landmarks-2013/"
+            },
+            {
+                "title":"Coding Towards Accessibility",
+                "url":"http://24ways.org/2013/coding-towards-accessibility/"
+            },
+            {
+                "title":"Easy Checks for Website Accessibility",
+                "url":"http://www.sitepoint.com/easy-checks-website-accessibility/"
+            },
+            {
+                "title":"HTML5 Accessibility Chops: notes on using ARIA",
+                "url":"http://blog.paciellogroup.com/2012/06/html5-accessibility-chops-using-aria-notes/"
+            },
+            {
+                "title":"Fixing “Skip to content” links",
+                "url":"http://www.nczonline.net/blog/2013/01/15/fixing-skip-to-content-links/"
+            },
+            {
+                "title":"Using the HTML title attribute",
+                "url":"http://blog.paciellogroup.com/2010/11/using-the-html-title-attribute/"
+            },
+            {
+                "title":"Accessibility and Building a web for everyone because sometimes it's not all about us",
+                "url":"http://negativitysandwiches.com/accessibility-and-building-a-web-for-everyone-because-sometimes-its-not-all-about-us/"
+            },
+            {
+                "title":"Ethical Dilemmas in Web Accessibility",
+                "url":"http://www.sitepoint.com/ethical-dilemmas-web-accessibility/"
+            },
+            {
+                "title":"You can’t create a button",
+                "url":"http://www.nczonline.net/blog/2013/01/29/you-cant-create-a-button/"
+            },
+            {
+                "title":"Everything you know about accessibility testing is wrong",
+                "url":"http://www.karlgroves.com/2014/03/13/everything-you-know-about-accessibility-testing-is-wrong-part-4/"
+            }
+        ],
+        "videos":[
+        ]
+    },
+    "items":[
+    ]  
+}]
+}

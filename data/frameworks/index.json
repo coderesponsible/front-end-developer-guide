@@ -1,0 +1,207 @@
+{"guide":[{
+    "cat":"Frameworks",
+    "info": {
+        "title":"JavaScript",
+        "description":[
+            "A JavaScript framework is a library of pre-written JavaScript which allows for easier development of JavaScript-based applications, especially for AJAX and other web-centric technologies."
+        ],
+        "url":"",
+        "articles":[
+        ],
+        "videos":[
+        ]
+    },
+    "items":[
+        {
+            "title":"JQuery",
+            "description":[
+                "jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript."
+            ],
+            "url":"http://jquery.com/",
+            "articles":[
+                {
+                    "title":"JQuery Fundimentals",
+                    "url":"http://jqfundamentals.com/"
+                },
+                {
+                    "title":"The Ultimate Guide to Writing jQuery Plugins",
+                    "url":"http://www.websanova.com/blog/jquery/the-ultimate-guide-to-writing-jquery-plugins"
+                }
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"AngularJS",
+            "description":[
+                "HTML is great for declaring static documents, but it falters when we try to use it for declaring dynamic views in web-applications. AngularJS lets you extend HTML vocabulary for your application. The resulting environment is extraordinarily expressive, readable, and quick to develop."
+            ],
+            "url":"https://angularjs.org/",
+            "articles":[
+                {
+                    "title":"How to Learn AngularJS - Your AngularJS Sherpa",
+                    "url":"http://www.ng-newsletter.com/posts/how-to-learn-angular.html"
+                },
+                {
+                    "title":"Building a Web App From Scratch in AngularJS",
+                    "url":"http://code.tutsplus.com/tutorials/building-a-web-app-from-scratch-in-angularjs--net-32944"
+                },
+                {
+                    "title":"AngularJS Tutorial: Learn to Build Modern Web Apps",
+                    "url":"http://www.thinkster.io/angularjs/GUIDJbpIie/angularjs-tutorial-learn-to-build-modern-web-apps"
+                },
+                {
+                    "title":"AngularJS-Learning",
+                    "url":"https://github.com/jmcunningham/AngularJS-Learning"
+                }
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"EmberJS",
+            "description":[
+                "Ember.js incorporates common idioms so you can focus on what makes your app special, not reinventing the wheel. Ember.js is built for productivity."
+            ],
+            "url":"http://emberjs.com/",
+            "articles":[
+                {
+                    "title":"An In-Depth Introduction To Ember.js",
+                    "url":"http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/"
+                },
+                {
+                    "title":"Flame on! A beginner's guide to Ember.js",
+                    "url":"http://www.adobe.com/devnet/html5/articles/flame-on-a-beginners-guide-to-emberjs.html"
+                }
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"BackboneJS",
+            "description":[
+                "Backbone.js gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface."
+            ],
+            "url":"http://backbonejs.org/",
+            "articles":[
+                {
+                    "title":"Getting Started with Backbone.js",
+                    "url":"http://code.tutsplus.com/tutorials/getting-started-with-backbone-js--net-19751"
+                },
+                {
+                    "title":"Backbone.js Tips And Patterns",
+                    "url":"http://coding.smashingmagazine.com/2013/08/09/backbone-js-tips-patterns/"
+                }
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"KnockoutJS",
+            "description":[
+                "Simplify dynamic JavaScript UIs with the Model-View-View Model (MVVM) pattern."
+            ],
+            "url":"http://knockoutjs.com/",
+            "articles":[
+                {
+                    "title":"Introducing Knockout, a UI library for JavaScript",
+                    "url":"http://blog.stevensanderson.com/2010/07/05/introducing-knockout-a-ui-library-for-javascript/"
+                }
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"Polymer",
+            "description":[
+                "Polymer is a library that uses the latest web technologies to let you create custom HTML elements. Build anything from a button to a complete application as an encapsulated, reusable element that works across desktop and mobile."
+            ],
+            "url":"http://knockoutjs.com/",
+            "articles":[
+            ],
+            "videos":[
+                {
+                    "title":"Componentize the Web",
+                    "url":"https://www.youtube.com/watch?v=2toYLLcoY14"
+                }
+            ]
+        },
+        {
+            "title":"Meteor",
+            "description":[
+                "Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started."
+            ],
+            "url":"https://www.meteor.com/",
+            "articles":[
+                {
+                    "title":"Meteor.js - A web framework for everyone",
+                    "url":"http://meteorhacks.com/meteor-js-web-framework-for-everyone.html"
+                },
+                {
+                    "title":"Meteor.js - The Perfect Match For Lean Startups",
+                    "url":"http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups"
+                }
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"Dojo",
+            "description":[
+                "Dojo saves you time and scales with your development process, using web standards as its platform. It’s the toolkit experienced developers turn to for building high quality desktop and mobile web applications."
+            ],
+            "url":"http://dojotoolkit.org/",
+            "articles":[
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"React",
+            "description":[
+                "A JavaScript library for building user interfaces."
+            ],
+            "url":"http://facebook.github.io/react/",
+            "articles":[
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"Kendo UI",
+            "description":[
+                "Everything you need to build sites and apps with pure JavaScript and HTML5"
+            ],
+            "url":"http://www.telerik.com/kendo-ui",
+            "articles":[
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"PhantomJS",
+            "description":[
+                "PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG."
+            ],
+            "url":"http://phantomjs.org/",
+            "articles":[
+                
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"Underscore.js",
+            "description":[
+                "Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects. It’s the answer to the question: “If I sit down in front of a blank HTML page, and want to start being productive immediately, what do I need?” … and the tie to go along with jQuery's tux and Backbone's suspenders."
+            ],
+            "url":"http://underscorejs.org/",
+            "articles":[
+                
+            ],
+            "videos":[
+            ]
+        }
+    ]
+}]
+}

@@ -1,0 +1,83 @@
+<section id="content" class="items">
+                {{#guide}}
+            <div class="row">
+                <h2>{{cat}}</h2>
+                {{#info}}
+                {{#if description.length}}
+                    {{#each description}}
+                    <p>{{ this }}</p>
+                    {{/each}}
+                {{else}}
+                {{/if}}
+                {{#if articles.length}}
+                    <div class="block">
+                        <h3>Articles</h3>
+                        <ul class="articles">
+                            {{#articles}}
+                                <li><a href="{{url}}">{{title}}</a></li>
+                            {{/articles}}
+                        </ul>
+                    </div>
+                    {{else}}
+                    {{/if}}
+                    {{#if videos.length}}
+                    <div class="block">
+                        <h3>Videos</h3>
+                        <ul class="articles">
+                            {{#videos}}
+                                <li><a href="{{url}}" class="modal">{{title}}</a></li>
+                            {{/videos}}
+                        </ul>
+                    </div>
+                    {{else}}
+                    {{/if}}
+                {{/info}}
+            </div>
+
+            {{#if items.length}}
+            <div class="row">
+                <ul class="item-list">
+                    {{#items}}
+                        <li>
+                            
+                            <h4><a href="{{url}}">{{title}}</a></h4>
+                            {{#each description}}
+                            <p>{{ this }}</p>
+                            {{else}}
+                            {{/each}}
+                            {{#if articles.length}}
+                            <h5>Articles</h5>
+                            <ul class="item-articles">
+                                {{#articles}}
+                                    <li><a href="{{url}}">{{title}}</a></li>
+                                {{/articles}}
+                            </ul>
+                            {{else}}
+                            {{/if}}
+                            {{#if videos.length}}
+                            <h5>Videos</h5>
+                            <ul class="item-articles">
+                                {{#videos}}
+                                    <li><a href="{{url}}" class="modal">{{title}}</a></li>
+                                {{/videos}}
+                            </ul>
+                            {{else}}
+                            {{/if}}
+                            
+                        </li>
+                        {{else}}
+                    {{/items}}
+                </ul>
+            </div>
+            {{else}}
+            {{/if}}
+    {{/guide}}
+<footer class="contributors">
+    <div class="row">
+        <h3>Contributors</h3>
+        <ul class="item-articles">
+        {{#contributors}}
+                <li><a href="{{url}}"><img src="https://avatars1.githubusercontent.com/u/{{image}}?s=120" alt="{{name}} profile image"><span class="name">{{name}}</span></a></li>
+        {{/contributors}}
+    </div>
+</footer>

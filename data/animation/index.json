@@ -1,0 +1,78 @@
+{"guide":[{
+    "cat":"Animation",
+    "info": {
+        "title":"",
+        "description":[
+            ""
+        ],
+        "url":"",
+        "articles":[
+        ],
+        "videos":[
+        ]
+    },
+    "items": [
+        {
+            "title":"Tween.js",
+            "description":[
+                "Super simple, fast and easy to use tweening engine which incorporates optimised Robert Penner's equations."
+            ],
+            "url":"https://github.com/sole/tween.js",
+            "url":"",
+            "articles":[
+                
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"Velocity.js",
+            "description":[
+                "Velocity is a jQuery plugin that re-implements $.animate() to produce significantly greater performance (making Velocity also faster than CSS animation libraries) while including new features to improve animation workflow."
+            ],
+            "url":"http://julian.com/research/velocity/",
+            "articles":[
+                
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"Animator.js",
+            "description":[
+                "Animator.js has now been incorporated into most of the major JavaScript frameworks, either by directly porting the code (Animator.js is released under a BSD license that allows people to do this) or by borrowing the techniques. Animator.js has served its purpose, and most people will be better served by a general purpose JavaScript framework."
+            ],
+            "url":"http://berniesumption.com/software/animator/",
+            "articles":[
+                
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"Shifty",
+            "description":[
+                "Shifty is a JavaScript tweening engine designed to fit any number of tweening needs."
+            ],
+            "url":"http://jeremyckahn.github.io/shifty/",
+            "articles":[
+                
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"Bounce.js",
+            "description":[
+                "bounce.js lets you create tasty CSS3 powered animations in no time."
+            ],
+            "url":"http://bouncejs.com/",
+            "articles":[
+                
+            ],
+            "videos":[
+            ]
+        }
+    ]  
+}]
+}

@@ -1,0 +1,21 @@
+{"guide":[{
+    "cat":"HTML",
+    "info": {
+        "title":"HTML",
+        "description":[
+            "HTML or HyperText Markup Language is the standard markup language used to create web pages."
+        ],
+        "url":"",
+        "articles":[
+            {
+                "title":"Dive into HTML5",
+                "url":"http://diveintohtml5.info/"
+            }
+        ],
+        "videos":[
+        ]
+    },
+    "items":[
+    ]
+}]
+}

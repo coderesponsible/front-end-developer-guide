@@ -1,0 +1,67 @@
+{"guide":[{
+    "cat":"Testing",
+    "info": {
+        "title":"",
+        "description":[
+            ""
+        ],
+        "url":"",
+        "articles":[
+            {
+                "title":"Testing Private Functions in JavaScript Modules",
+                "url":"http://engineering.clever.com/2014/07/29/testing-private-functions-in-javascript-modules/"
+            }
+        ],
+        "videos":[
+        ]
+    },
+    "items":[
+        {
+            "title":"Jasmine",
+            "description":[
+                "Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests."
+            ],
+            "url":"http://jasmine.github.io/",
+            "articles":[
+                {
+                    "title":"Testing Your JavaScript with Jasmine",
+                    "url":"http://code.tutsplus.com/tutorials/testing-your-javascript-with-jasmine--net-21229"
+                },
+                {
+                    "title":"Testing node.js applications with Jasmine",
+                    "url":"http://blog.codeship.io/2013/08/20/testing-tuesday-19-how-to-test-node-js-applications-with-jasmine.html"
+                }
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"Cucumber",
+            "description":[
+                "Cucumber is a tool that executes plain-text functional descriptions as automated tests. The language that Cucumber understands is called Gherkin."
+            ],
+            "url":"https://github.com/cucumber/cucumber/wiki",
+            "articles":[
+                {
+                    "title":"Getting Started with cucumber.js",
+                    "url":"http://transitioning.to/2012/01/cucumber-and-js-getting-started-with-cucumber-js/"
+                }
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"QUnit",
+            "description":[
+                "QUnit is a powerful, easy-to-use JavaScript unit testing framework. It's used by the jQuery, jQuery UI and jQuery Mobile projects and is capable of testing any generic JavaScript code, including itself!"
+            ],
+            "url":"http://qunitjs.com/",
+            "articles":[
+                
+            ],
+            "videos":[
+            ]
+        }
+    ]  
+}]
+}

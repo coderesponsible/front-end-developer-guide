@@ -1,0 +1,54 @@
+{"guide":[{
+    "cat":"SVG",
+    "info": {
+        "title":"",
+        "description":[
+            "Scalable Vector Graphics (SVG) is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation."
+        ],
+        "url":"",
+        "articles":[
+            {
+                "title":"Using SVG",
+                "url":"http://css-tricks.com/using-svg/"
+            },
+            {
+                "title":"How to Use SVG Patterns",
+                "url":"http://designmodo.com/svg-patterns/"
+            },
+            {
+                "title":"Icon System with SVG Sprites",
+                "url":"http://css-tricks.com/svg-sprites-use-better-icon-fonts/"
+            },
+            {
+                "title":"Getting Started with SVG Gradients",
+                "url":"http://www.sitepoint.com/getting-started-svg-gradients/"
+            },
+            {
+                "title":"Animating SVG Gradients",
+                "url":"http://designmodo.com/animate-svg-gradients/"
+            },
+            {
+                "title":"Animating SVG with CSS",
+                "url":"http://css-tricks.com/animating-svg-css/"
+            },
+            {
+                "title":"Tips for Creating Accessible SVG",
+                "url":"http://www.sitepoint.com/tips-accessible-svg/"
+            }
+            
+        ],
+        "videos":[
+            {
+                "title":"Introduction to SVG and RaphaelJS",
+                "url":"https://www.youtube.com/watch?v=ECUhNrlyTkE"
+            },
+            {
+                "title":"You Don't Know SVG - Dmitry Baranovskiy",
+                "url":"https://www.youtube.com/watch?v=SeLOt_BRAqc"
+            }
+        ]
+    },
+    "items":[
+    ]  
+}]
+}

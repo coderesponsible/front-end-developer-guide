@@ -1,0 +1,66 @@
+{"guide":[{
+    "cat":"Package Management",
+    "info": {
+        "title":"",
+        "description":[
+            ""
+        ],
+        "url":"",
+        "articles":[
+            
+        ],
+        "videos":[
+        ]
+    },
+    "items":[
+        {
+            "title":"Node Packaged Modules (npm)",
+            "description":[
+                "Package manager. Installs, publishes and manages node programs."
+            ],
+            "url":"https://www.npmjs.org/",
+            "articles":[
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"Bower",
+            "description":[
+                "Bower is a package manager for the web. It offers a generic, unopinionated solution to the problem of front-end package management, while exposing the package dependency model via an API that can be consumed by a more opinionated build stack. There are no system wide dependencies, no dependencies are shared between different apps, and the dependency tree is flat.",
+                "Bower runs over Git, and is package-agnostic. A packaged component can be made up of any type of asset, and use any type of transport (e.g., AMD, CommonJS, etc.)."
+            ],
+            "url":"http://bower.io/",
+            "articles":[
+                
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"Volo",
+            "description":[
+                "Create browser-based, front-end projects from project templates, and add dependencies by fetching them from GitHub. Once your project is set up, automate common tasks.",
+                "Volo is dependency manager and project creation tool that favors GitHub for the package repository.",
+                "At its heart, volo is a generic command runner -- you can create new commands for volo, and you can use commands others have created."
+            ],
+            "url":"https://github.com/volojs/volo",
+            "articles":[
+            ],
+            "videos":[
+            ]
+        },
+        {
+            "title":"Homebrew",
+            "description":[
+                "The missing package manager for OS X. Homebrew installs the stuff you need that Apple didn't."
+            ],
+            "url":"http://brew.sh/",
+            "articles":[
+            ],
+            "videos":[
+            ]
+        }
+    ]  
+}]
+}
