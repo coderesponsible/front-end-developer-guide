@@ -48,6 +48,10 @@
         "url":"/package-management/"
     },
     {
+        "title":"Performance",
+        "url":"/performance/"
+    },
+    {
         "title":"Responsive",
         "url":"/responsive/"
     },
