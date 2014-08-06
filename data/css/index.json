@@ -50,16 +50,24 @@
             {
                 "title":"Authoring Critical Above-the-Fold CSS",
                 "url":"http://css-tricks.com/authoring-critical-fold-css/"
+            },
+            {
+                "title":"Suit CSS",
+                "url":"http://css-tricks.com/authoring-critical-fold-css/"
             }
         ],
         "videos":[
             {
                 "title":"Preprocessors Don't Solve Architecture Problems",
                 "url":"http://vimeo.com/99877232"
+            },
+            {
+                "title":"Slaying the Dragon: Refactoring CSS for Maintainability – Alicia Liu at Front-Trends 2014",
+                "url":"http://vimeo.com/100501790"
             }
         ]
     },
     "items":[
-    ]  
+    ]
 }]
 }
