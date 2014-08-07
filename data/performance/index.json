@@ -34,6 +34,10 @@
             {
                 "title":"Preventing 'layout thrashing'",
                 "url":"http://wilsonpage.co.uk/preventing-layout-thrashing/"
+            },
+            {
+                "title":"HTML5 Prefetch",
+                "url":"https://medium.com/@luisvieira_gmr/html5-prefetch-1e54f6dda15d"
             }
         ],
         "videos":[
@@ -60,6 +64,6 @@
         ]
     },
     "items":[
-    ] 
+    ]
 }]
 }

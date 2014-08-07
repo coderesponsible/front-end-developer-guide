@@ -10,12 +10,20 @@
             {
                 "title":"Email Design: A Community of Hacks",
                 "url":"https://litmus.com/blog/email-design-a-community-of-hacks"
+            },
+            {
+                "title":"Ink: Quickly create responsive HTML emails that work on any device & client. Even Outlook.",
+                "url":"http://zurb.com/ink/"
+            },
+            {
+                "title":"Responsive Email Patterns: A collection of patterns & modules for responsive emails",
+                "url":"http://responsiveemailpatterns.com/"
             }
         ],
         "videos":[
         ]
     },
     "items":[
-    ]  
+    ]
 }]
 }
