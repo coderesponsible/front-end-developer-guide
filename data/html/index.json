@@ -17,6 +17,10 @@
             }
         ],
         "videos":[
+            {
+                "title":"HTML5 Storage: Application Cache",
+                "url":"https://www.youtube.com/watch?v=CoUSIBep1G8"
+            }
         ]
     },
     "items":[

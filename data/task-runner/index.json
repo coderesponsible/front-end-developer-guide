@@ -3,7 +3,7 @@
     "info": {
         "title":"Task Runner",
         "description":[
-            ""
+            "A task runner is an application that polls AWS Data Pipeline for tasks and then performs those tasks."
         ],
         "url":"",
         "articles":[
@@ -42,6 +42,10 @@
                 }
             ],
             "videos":[
+                {
+                    "title":"Introducing and Installing Grunt Task Runner",
+                    "url":"http://vimeo.com/65014958"
+                }
             ]
         },
         {
@@ -54,6 +58,10 @@
                 {
                     "title":"An Introduction to Gulp.js",
                     "url":"http://www.sitepoint.com/introduction-gulp-js/"
+                },
+                {
+                    "title":"A beginners guide to Gulp.js",
+                    "url":"http://www.webdesignermag.co.uk/features/a-beginners-guide-to-gulp-js/"
                 },
                 {
                     "title":"Managing Your Build Tasks With Gulp.js",
@@ -70,6 +78,10 @@
                 {
                     "title": "Building With Gulp" ,
                     "url":"http://www.smashingmagazine.com/2014/06/11/building-with-gulp/"
+                },
+                {
+                    "title": "No Need To Grunt, Take A Gulp Of Fresh Air" ,
+                    "url":"http://travismaynard.com/writing/no-need-to-grunt-take-a-gulp-of-fresh-air"
                 }
             ],
             "videos":[

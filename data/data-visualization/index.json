@@ -89,6 +89,17 @@
             ],
             "videos":[
             ]
+        },
+        {
+            "title":"Epoch",
+            "description":[
+                "A general purpose real-time charting library for building beautiful, smooth, and high performance visualizations."
+            ],
+            "url":"http://fastly.github.io/epoch/",
+            "articles":[
+            ],
+            "videos":[
+            ]
         }
     ]  
 }]
