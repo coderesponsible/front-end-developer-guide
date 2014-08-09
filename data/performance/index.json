@@ -38,6 +38,18 @@
             {
                 "title":"HTML5 Prefetch",
                 "url":"https://medium.com/@luisvieira_gmr/html5-prefetch-1e54f6dda15d"
+            },
+            {
+                "title":"Jank Busting for Better Rendering Performance",
+                "url":"http://www.html5rocks.com/en/tutorials/speed/rendering/"
+            },
+            {
+                "title":"Getting 60 FPS using Chrome devtools",
+                "url":"http://engineering.wingify.com/posts/getting-60fps-using-devtools/"
+            },
+            {
+                "title":"Scrolling Performance",
+                "url":"http://www.html5rocks.com/en/tutorials/speed/scrolling/"
             }
         ],
         "videos":[
@@ -60,6 +72,18 @@
             {
                 "title":"classList for Great Good!",
                 "url":"https://www.youtube.com/watch?v=hZJacl2VkKo"
+            },
+            {
+                "title":"Gone in 60 Frames Per Second",
+                "url":"http://vimeo.com/75540354"
+            },
+            {
+                "title":"Accelerating Load Time, Run Time, and JS tooling",
+                "url":"https://www.youtube.com/watch?v=E8qvkGTwiV0"
+            },
+            {
+                "title":"Rendering without the lumpy bits",
+                "url":"http://vimeo.com/64733304"
             }
         ]
     },
