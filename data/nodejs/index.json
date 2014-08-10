@@ -38,6 +38,10 @@
         ],
         "videos":[
             {
+                "title":"Node.js tutorial for beginners",
+                "url":"https://www.youtube.com/watch?v=ndKRjmA6WNA"
+            },
+            {
                 "title":"npm, inc.",
                 "url":"https://www.youtube.com/watch?v=lvZeY-xua70"
             },
