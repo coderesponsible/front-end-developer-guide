@@ -39,6 +39,10 @@
                 {
                     "title":"Getting started with Grunticon",
                     "url":"http://blog.iconfinder.com/get-started-with-grunticon/"
+                },
+                {
+                    "title":"Advanced Grunt tooling",
+                    "url":"http://chrisawren.com/posts/Advanced-Grunt-tooling"
                 }
             ],
             "videos":[
