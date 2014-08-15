@@ -1,5 +1,18 @@
 module.exports = function(grunt) {
+    var globalConfig = {
+        data: 'javascript',
+        template: 'page'
+      };
+
+    if(grunt.option('data') != undefined){
+        globalConfig.data = grunt.option('data');
+      }
+    if(grunt.option('template') != undefined){
+        globalConfig.template = grunt.option('template');
+      }
+
     grunt.initConfig({
+        globalConfig: globalConfig,
         pkg: grunt.file.readJSON('package.json'),
         sass: {
             dist: {
@@ -35,11 +48,11 @@ module.exports = function(grunt) {
         },
         'compile-handlebars': {
             // allStatic: {
-            //     preHTML: 'templates/header.handlebars',
-            //     postHTML: 'templates/footer.handlebars',
-            //     template: 'templates/template.handlebars',
-            //     templateData: 'data/html.json',
-            //     output: 'index.html',
+            //     preHTML: 'partials/header.handlebars',
+            //     postHTML: 'partials/footer.handlebars',
+            //     template: 'templates/<%= globalConfig.template %>.handlebars',
+            //     templateData: 'data/<%= globalConfig.data %>/index.json',
+            //     output: 'output/<%= globalConfig.data %>/index.html',
             //     globals: [
             //         'content/contributors.json'
             //     ]
