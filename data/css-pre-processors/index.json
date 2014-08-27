@@ -50,6 +50,10 @@
                 {
                     "title":"Sass IE Functions",
                     "url":"http://sassmeister.com/gist/9949951"
+                },
+                {
+                    "title":"Architecture for a Sass Project",
+                    "url":"http://www.sitepoint.com/architecture-sass-project/"
                 }
             ],
             "videos":[
