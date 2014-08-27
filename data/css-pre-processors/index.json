@@ -46,6 +46,10 @@
                 {
                     "title":"Making Sass talk to JavaScript with JSON",
                     "url":"http://css-tricks.com/making-sass-talk-to-javascript-with-json/"
+                },
+                {
+                    "title":"Sass IE Functions",
+                    "url":"http://sassmeister.com/gist/9949951"
                 }
             ],
             "videos":[
