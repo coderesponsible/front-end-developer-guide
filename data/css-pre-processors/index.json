@@ -54,6 +54,10 @@
                 {
                     "title":"Architecture for a Sass Project",
                     "url":"http://www.sitepoint.com/architecture-sass-project/"
+                },
+                {
+                    "title":"Improving Sass code quality on theguardian.com",
+                    "url":"http://www.theguardian.com/info/developer-blog/2014/may/13/improving-sass-code-quality-on-theguardiancom"
                 }
             ],
             "videos":[
