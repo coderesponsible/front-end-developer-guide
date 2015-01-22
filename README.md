@@ -9,7 +9,7 @@ A detailed list of resources to learn more about Front End Development. The guid
 
 ## Contributing
 
-Help contribute to the extensive list of great resources by sharing your favorite links for Front End Development. It's easy just update one of the JSON files in the data directory with artiles and video links.
+Help contribute to the extensive list of great resources by sharing your favorite links for Front End Development. It's easy just update one of the JSON files in the data directory with articles and video links.
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
