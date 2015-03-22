@@ -5,7 +5,7 @@ A detailed list of resources to learn more about Front End Development. The guid
 
 ## View the page
 
-[View the guide](http://coderesponsible.com/)
+[View the guide](http://coderesponsible.com/front-end-developer-guide/)
 
 ## Contributing
 
